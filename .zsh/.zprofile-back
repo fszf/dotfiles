@@ -1,0 +1,24 @@
+#-------------------------------------------------
+# file:     ~/.zprofile
+# author:   jason ryan - http://jasonwryan.com/
+# vim:fenc=utf-8:nu:ai:si:et:ts=4:sw=4:ft=zsh:
+#-------------------------------------------------
+
+# export other directories to PATH
+typeset -U path
+path=($HOME/Scripts /usr/lib/surfraw $path)
+
+# start keychain
+/usr/bin/keychain -Q -q --nogui id_dsa id_rsa archer alioth bb B1BD4E40
+[ -z "$HOSTNAME" ] && HOSTNAME=$(uname -n)
+[ -f $HOME/.keychain/${HOSTNAME}-sh ] && source $HOME/.keychain/${HOSTNAME}-sh
+[ -f $HOME/.keychain/${HOSTNAME}-sh-gpg ] && source $HOME/.keychain/${HOSTNAME}-sh-gpg
+
+# startx if on tty1 and tmux on tty2
+if [[ -z "$DISPLAY" ]] && [[ $(tty) = /dev/tty1 ]]; then
+    exec startx -- vt1 &>/dev/null
+    logout
+elif [[ $(tty) = /dev/tty2 ]]; then
+    tmux -f $HOME/.tmux/conf new -s secured
+fi
+

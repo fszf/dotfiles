@@ -1,0 +1,16 @@
+#########################
+# gmail specific options
+#########################
+
+color status     brightwhite   green
+color indicator  brightwhite   green
+
+set realname = 'Frank Shin'
+set from      = "frankshin82@gmail.com"
+set sendmail  = "/usr/bin/msmtp -a GMAIL"
+set mbox      = "+GMAIL/archive"
+set record    = "+GMAIL/SentMail"
+set postponed = "+GMAIL/Drafts"
+
+macro index S "<save-message>+GMAIL/Spam<enter>"         "mark message as spam"
+

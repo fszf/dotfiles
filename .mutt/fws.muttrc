@@ -1,0 +1,17 @@
+#######################
+# jwr specific options
+#######################
+
+color status     brightwhite  black
+color indicator  brightwhite  black
+color index      brightblue   default    "~f frank@thevillamotel.com"
+color index      green        default    "~f frank@thevillamotel.com"
+
+set realname = 'Frank Shin'
+set from      = "frank@thevillamotel.com"
+set sendmail  = "/usr/bin/msmtp -a FWS"
+set mbox      = "+FWS/archive"
+set record    = "+FWS/SentMail"
+set postponed = "+FWS/Drafts"
+
+macro index S "<save-message>+FWS/Spam<enter>"               "mark message as spam"

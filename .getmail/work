@@ -1,0 +1,15 @@
+[retriever]
+type = SimplePOP3Retriever
+server = mail.(mailserver).com
+username = (email)@(mailserver).com
+port = 110
+password = (password)
+
+[destination]
+# sorting mail pass retrieved mail to procmail
+type = MDA_external
+path = /usr/bin/procmail
+
+[options]
+read_all = False
+#verbose = 0

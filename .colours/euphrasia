@@ -1,0 +1,102 @@
+!! euphrasia colours by bohoomil
+
+!! fg / bg for .Xdefaults / .Xresources 
+! URxvt*background:  #090C19
+! URxvt*foreground:  #E6E6E6
+! URxvt*cursorColor: #1AAA13
+
+! euphrasia fg/bg
+URxvt*background:      #090C19
+URxvt*foreground:      #E6E6E6
+URxvt*cursorColor:     #1AAA13
+
+*background: #D0CECB
+*foreground: #090C19
+
+! black
+*color0:  #222946
+! dark grey
+*color8:  #8C8B89
+
+! red
+*color1:  #BE1919
+! bright red
+*color9:  #DC2F32 
+
+! green
+*color2:  #1AAA13
+! bright green
+*color10: #5DCE33
+
+! yellow
+*color3:  #FFAA3E
+! bright yellow
+*color11: #FADD2D
+
+! blue
+*color4:  #3753CC
+! bright blue
+*color12: #507CFF
+
+! magenta
+*color5:  #BE007F
+! bright magenta
+*color13: #E65CD0
+
+! cyan
+*color6: #14BDCC
+! bright cyan
+*color14: #48F3F3
+
+! light grey
+*color7:  #AEAEAE
+! white
+*color15: #DBDDE4
+
+!! Colours for the Linux console
+!! for use with conpalette
+!! (https://github.com/hinrik/conpalette):
+!
+!'euphrasia' => [
+!			'000000', #black
+!			'BE1919', #darkred
+!			'1AAA13', #darkgreen
+!			'FFAA3E', #brown
+!			'3753CC', #darkblue
+!			'BE007F', #darkmagenta
+!			'14BDCC', #darkcyan
+!			'AEAEAE', #lightgrey
+!			
+!			'8C8B89', #darkgrey
+!			'DC2F32', #red
+!			'5DCE33', #green
+!			'FADD2D', #yellow
+!			'507CFF', #blue
+!			'E65CD0', #magenta
+!			'48F3F3', #cyan
+!			'DBDDE4', #white
+!		],
+!
+!! ... or in .profile/.bash_profile/.bashrc, etc.:
+!
+!if [ "$TERM" = "linux" ]; then
+!    echo -en "\e]P0000000" #black
+!    echo -en "\e]P88C8B89" #darkgrey
+!    echo -en "\e]P1BE1919" #darkred
+!    echo -en "\e]P9DC2F32" #red
+!    echo -en "\e]P21AAA13" #darkgreen
+!    echo -en "\e]PA5DCE33" #green
+!    echo -en "\e]P3FFAA3E" #brown
+!    echo -en "\e]PBFADD2D" #yellow
+!    echo -en "\e]P43753CC" #darkblue
+!    echo -en "\e]PC507CFF" #blue
+!    echo -en "\e]P5BE007F" #darkmagenta
+!    echo -en "\e]PDE65CD0" #magenta
+!    echo -en "\e]P614BDCC" #darkcyan
+!    echo -en "\e]PE48F3F3" #cyan
+!    echo -en "\e]P7AEAEAE" #lightgrey
+!    echo -en "\e]PFDBDDE4" #white
+!    clear # default input colours
+!fi
+
+! vim:ft=xdefaults

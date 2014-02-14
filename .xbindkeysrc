@@ -1,0 +1,42 @@
+"xbacklight -dec 5"
+m:0x0 + c:232
+
+"xbacklight -inc 5"
+m:0x0 + c:233
+
+"kbdlight up"
+m:0x0 + c:238
+
+"kbdlight down"
+m:0x0 + c:237
+
+#"amixer -c 1 set Master 5%+"
+#"pamixer --increase 5"
+"/usr/bin/pulseaudio-ctl up"
+m:0x0 + c:123
+
+#"amixer -c 1 set Master 5%-"
+#"pamixer --decrease 5"
+"/usr/bin/pulseaudio-ctl down"
+m:0x0 + c:122
+
+#"amixer -c 1 set Master toggle"
+"/usr/bin/pulseaudio-ctl mute"
+m:0x0 + c:121
+
+"ncmpcpp toggle"
+m:0x0 + c:172
+
+"ncmpcpp next"
+m:0x0 + c:171
+
+"ncmpcpp prev"
+m:0x0 + c:173
+
+#"xset +dpms; xset s on"
+#m:0x0 + c:212
+#XF86LaunchB
+
+#"xet -dpms; xset s off""
+#m:0x0 + c:128
+#XF86LaunchA

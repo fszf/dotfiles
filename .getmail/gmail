@@ -1,0 +1,17 @@
+[retriever]
+type = SimplePOP3SSLRetriever
+server = pop.gmail.com
+username = (user)@gmail.com
+port = 995
+password = (password)
+
+[destination]
+#type = Maildir
+#path = ~/Mail/GMAIL/
+# sorting mail pass retrieved mail to procmail
+type = MDA_external
+path = /usr/bin/procmail
+
+[options]
+read_all = False
+#verbose = 0

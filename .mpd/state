@@ -1,0 +1,38 @@
+sw_volume: 34
+audio_device_state:1:MPD PulseAudio Output
+audio_device_state:1:my_fifo
+state: pause
+current: 5
+time: 115
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/01 - Titanium feat. Sia.mp3
+1:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/02 - Turn Me On feat. Nicki Minaj.mp3
+2:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/03 - She Wolf (Falling IntoTo Pieces) feat. Sia.mp3
+3:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/04 - Without You feat. Usher.mp3
+4:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/05 - I Can Only Imagine feat. Chris Brown & Lil Wayne.mp3
+5:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/06 - Play Hard feat. Ne - Yo & Akon.mp3
+6:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/07 - Wild One 2 (Edit) feat. Sia.mp3
+7:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/08 - Just One Last Time feat. Taped Rai.mp3
+8:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/09 - In My Head feat. Nervo.mp3
+9:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/10 - Where Them Girls At feat. Flo Rida & Nicki Minaj.mp3
+10:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/11 - Little Bad Girl feat. Taio Cruz & Ludacris.mp3
+11:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/12 - Sweat (David Guetta Remix) - David Guetta vs. Snoop Dogg.mp3
+12:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/13 - Crank It Up feat. Akon.mp3
+13:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/14 - I Just Wanna F. (Feat. Timbaland & Dev).mp3
+14:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/15 - Nothing Really Matters feat. will.i.am.mp3
+15:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/16 Repeat (Feat. Jessie J).mp3
+16:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/17 Night Of Your Life (Feat. Jennifer Hudson).mp3
+17:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/18 - Every Chance We Get We Run feat. Tegan Quin & Sara - David Guetta & Alesso.mp3
+18:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/19 - Sunshine (Edit).mp3
+19:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/20 - Lunar (Edit).mp3
+20:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/21 - What The F.mp3
+21:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/22 - Metropolis (Edit).mp3
+22:David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG/23 - The Alphabeat.mp3
+playlist_end

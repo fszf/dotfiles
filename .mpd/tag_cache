@@ -1,0 +1,6170 @@
+info_begin
+format: 1
+mpd_version: 0.18.8
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Bangerz (Deluxe Version)
+mtime: 1390722417
+begin: Bangerz (Deluxe Version)
+song_begin: 01 Adore You.mp3
+Time: 279
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Adore You
+Album: Bangerz (Deluxe Version)
+Track: 1/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722697
+song_end
+song_begin: 02 We Can't Stop.mp3
+Time: 231
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: We Can't Stop
+Album: Bangerz (Deluxe Version)
+Track: 2/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722680
+song_end
+song_begin: 03 SMS (Bangerz) (feat. Britney Spears).mp3
+Time: 169
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: SMS (Bangerz) (feat. Britney Spears)
+Album: Bangerz (Deluxe Version)
+Track: 3/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722542
+song_end
+song_begin: 04 4x4 feat. (Nelly).mp3
+Time: 192
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: 4x4 feat. (Nelly)
+Album: Bangerz (Deluxe Version)
+Track: 4/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722554
+song_end
+song_begin: 05 My Darlin' (feat. Future).mp3
+Time: 243
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: My Darlin' (feat. Future)
+Album: Bangerz (Deluxe Version)
+Track: 5/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722699
+song_end
+song_begin: 06 Wrecking Ball.mp3
+Time: 221
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Wrecking Ball
+Album: Bangerz (Deluxe Version)
+Track: 6/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722662
+song_end
+song_begin: 07 Love Money Party (feat. Big Sean).mp3
+Time: 220
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Love Money Party (feat. Big Sean)
+Album: Bangerz (Deluxe Version)
+Track: 7/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722663
+song_end
+song_begin: 08 #GETITRIGHT.mp3
+Time: 265
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: #GETITRIGHT
+Album: Bangerz (Deluxe Version)
+Track: 8/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722699
+song_end
+song_begin: 09 Drive.mp3
+Time: 255
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Drive
+Album: Bangerz (Deluxe Version)
+Track: 9/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722697
+song_end
+song_begin: 10 FU (feat. French Montana).mp3
+Time: 232
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: FU (feat. French Montana)
+Album: Bangerz (Deluxe Version)
+Track: 10/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722700
+song_end
+song_begin: 11 Do My Thang.mp3
+Time: 226
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Do My Thang
+Album: Bangerz (Deluxe Version)
+Track: 11/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722504
+song_end
+song_begin: 12 Maybe You're Right.mp3
+Time: 213
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Maybe You're Right
+Album: Bangerz (Deluxe Version)
+Track: 12/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722671
+song_end
+song_begin: 13 Someone Else.mp3
+Time: 288
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Someone Else
+Album: Bangerz (Deluxe Version)
+Track: 13/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722695
+song_end
+song_begin: 14 Rooting For My Baby.mp3
+Time: 200
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Rooting For My Baby
+Album: Bangerz (Deluxe Version)
+Track: 14/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722597
+song_end
+song_begin: 15 On My Own.mp3
+Time: 232
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: On My Own
+Album: Bangerz (Deluxe Version)
+Track: 15/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722701
+song_end
+song_begin: 16 Hands In the Air (feat. Ludacris).mp3
+Time: 202
+Artist: Miley Cyrus
+AlbumArtist: Miley Cyrus
+Title: Hands In the Air (feat. Ludacris)
+Album: Bangerz (Deluxe Version)
+Track: 16/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390722680
+song_end
+end: Bangerz (Deluxe Version)
+directory: Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin
+mtime: 1391505151
+begin: Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin
+song_begin: 101_Beethoven_-_Symphony_No_5_in_C_minor_Op_67_I_Allegro_con_brio.flac
+Time: 335
+Title: Symphony No. 5 in C minor, Op. 67: I. Allegro con brio
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 1
+mtime: 1391505850
+song_end
+song_begin: 102_Beethoven_-_Egmont_Op_84_Overture.flac
+Time: 505
+Title: Egmont, Op. 84: Overture
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 2
+mtime: 1391505935
+song_end
+song_begin: 103_Beethoven_-_Piano_Sonata_No_14_in_C_sharp_minor_Op_27_No_2_Moonlight_I_Adagio_sostenuto.flac
+Time: 318
+Title: Piano Sonata No. 14 in C sharp minor, Op. 27, No. 2, "Moonlight": I. Adagio sostenuto
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 3
+mtime: 1391505320
+song_end
+song_begin: 104_Beethoven_-_String_Quartet_No_9_in_C_major_Op_593_Razumovsky_IV_Allegro_molto.flac
+Time: 357
+Title: String Quartet No. 9 in C major, Op. 59/3, "Razumovsky": IV. Allegro molto
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 4
+mtime: 1391505483
+song_end
+song_begin: 105_Beethoven_-_Violin_Concerto_in_D_major_Op_61_III_Rondo_Allegro.flac
+Time: 675
+Title: Violin Concerto in D major, Op. 61: III. Rondo: Allegro
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 5
+mtime: 1391505850
+song_end
+song_begin: 106_Beethoven_-_Fidelio_Op_72_Act_I_No_9_Abscheulicher_wo_eilst_du_hin.flac
+Time: 448
+Title: Fidelio, Op. 72, Act I: No. 9 Abscheulicher! wo eilst du hin
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 6
+mtime: 1391505926
+song_end
+song_begin: 107_Beethoven_-_Piano_Sonata_No_8_in_C_minor_Op_13_Pathetique_II_Adagio_cantabile.flac
+Time: 285
+Title: Piano Sonata No. 8 in C minor, Op. 13, "Pathetique": II. Adagio cantabile
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 7
+mtime: 1391505515
+song_end
+song_begin: 108_Beethoven_-_Symphony_No_6_in_F_major_Op_68_Pastoral_Allegro_ma_non_troppo.flac
+Time: 665
+Title: Symphony No. 6 in F major, Op. 68, "Pastoral": I. Pleasant, cheerful feelings aroused on approaching the countryside: Allegro ma non troppo
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 8
+mtime: 1391506187
+song_end
+song_begin: 109_Beethoven_-_Violin_Sonata_No_9_in_A_major_Op_47_Kreutzer_III_Finale_Presto.flac
+Time: 389
+Title: Violin Sonata No. 9 in A major, Op. 47, "Kreutzer": III. Finale: Presto
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 9
+mtime: 1391506187
+song_end
+song_begin: 110_Beethoven_-_Piano_Concerto_No_5_in_E_flat_major_Op_73_Emperor_Rondo_Allegro.flac
+Time: 602
+Title: Piano Concerto No. 5 in E flat major, Op. 73, "Emperor": Rondo: Allegro
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Disc: 1
+Date: 2005
+Track: 10
+mtime: 1391505565
+song_end
+song_begin: 201_Beethoven_-_Symphony_No_3_in_E_flat_major_Op_55_Eroica_III_Scherzo_Allegro_vivace.flac
+Time: 356
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Symphony No. 3 in E flat major, Op. 55, "Eroica": III. Scherzo: Allegro vivace
+Disc: 2
+Date: 2005
+Track: 1
+mtime: 1391505669
+song_end
+song_begin: 202_Beethoven_-_Bagatelle_in_A_minor_WoO_59_Fur_Elise.flac
+Time: 188
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Bagatelle in A minor, WoO 59, "Fur Elise"
+Disc: 2
+Date: 2005
+Track: 2
+mtime: 1391505676
+song_end
+song_begin: 203_Beethoven_-_Mass_in_D_major_Op_123_Missa_Solemnis_Benedictus.flac
+Time: 624
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Mass in D major, Op. 123, "Missa Solemnis": Benedictus
+Disc: 2
+Date: 2005
+Track: 3
+mtime: 1391505841
+song_end
+song_begin: 204_Beethoven_-_Violin_Sonata_No_5_in_F_major_Op_24_Spring_II_Adagio_molto_espressivo.flac
+Time: 346
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Violin Sonata No. 5 in F major, Op. 24, "Spring": II. Adagio molto espressivo
+Disc: 2
+Date: 2005
+Track: 4
+mtime: 1391505947
+song_end
+song_begin: 205_Beethoven_-_Piano_Concerto_No_4_in_G_major_Op_58_III_Rondo_(Vivace).flac
+Time: 598
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Piano Concerto No. 4 in G major, Op. 58: III. Rondo (Vivace)
+Disc: 2
+Date: 2005
+Track: 5
+mtime: 1391506029
+song_end
+song_begin: 206_Beethoven_-_Andante_in_F_major_WoO_57_Andante_favori.flac
+Time: 455
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Andante in F major, WoO 57, "Andante favori"
+Disc: 2
+Date: 2005
+Track: 6
+mtime: 1391506033
+song_end
+song_begin: 207_Beethoven_-_Symphony_No_7_in_A_major_Op_92_II_Allegretto.flac
+Time: 491
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Symphony No. 7 in A major, Op. 92: II. Allegretto
+Disc: 2
+Date: 2005
+Track: 7
+mtime: 1391506081
+song_end
+song_begin: 208_Beethoven_-_Piano_Trio_No_7_in_B_flat_major_Op_97_Archduke_II_Scherzo.flac
+Time: 382
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Piano Trio No. 7 in B flat major, Op. 97, "Archduke": II. Scherzo
+Disc: 2
+Date: 2005
+Track: 8
+mtime: 1391506187
+song_end
+song_begin: 209_Beethoven_-_Cello_Sonata_No_3_in_A_major_Op_69_III_Adagio_cantabile_-_Allegro_vivace.flac
+Time: 504
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Cello Sonata No. 3 in A major, Op. 69: III. Adagio cantabile - Allegro vivace
+Disc: 2
+Date: 2005
+Track: 9
+mtime: 1391506187
+song_end
+song_begin: 210_Beethoven_-_Symphony_No_9_in_D_minor_Op_125_Choral_IV_Finale_Presto_-_Allegro_assai_(excerpt).flac
+Time: 833
+Album: The Very Best of Beethoven
+Artist: Beethoven
+Genre: Classical
+Title: Symphony No. 9 in D minor, Op. 125, "Choral": IV. Finale: Presto - Allegro assai (excerpt)
+Disc: 2
+Date: 2005
+Track: 10
+mtime: 1391505936
+song_end
+playlist_begin: Beethoven_-_The_Very_Best_Of_Beethoven_(2005)_[FLAC]-dussin.m3u
+mtime: 1391505787
+playlist_end
+playlist_begin: 200_The_Very_Best_Of_Beethoven.m3u
+mtime: 1391505531
+playlist_end
+playlist_begin: 100_The_Very_Best_Of_Beethoven.m3u
+mtime: 1391505786
+playlist_end
+end: Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin
+directory: Beyonce Beyonce 2013
+mtime: 1390892457
+begin: Beyonce Beyonce 2013
+song_begin: 01 Pretty Hurts.mp3
+Time: 258
+Artist: Beyoncé
+Title: Pretty Hurts
+Album: BEYONCÉ
+Track: 1
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390893038
+song_end
+song_begin: 02 Haunted.mp3
+Time: 369
+Artist: Beyoncé
+Title: Haunted
+Album: BEYONCÉ
+Track: 2
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390892943
+song_end
+song_begin: 03 Drunk In Love (feat. Jay Z).mp3
+Time: 324
+Artist: Beyoncé
+Title: Drunk In Love (feat. Jay Z)
+Album: BEYONCÉ
+Track: 3
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390892903
+song_end
+song_begin: 04 Blow.mp3
+Time: 310
+Artist: Beyoncé
+Title: Blow
+Album: BEYONCÉ
+Track: 4
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390892999
+song_end
+song_begin: 05 No Angel.mp3
+Time: 229
+Artist: Beyoncé
+Title: No Angel
+Album: BEYONCÉ
+Track: 5
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390893035
+song_end
+song_begin: 06 Partition.mp3
+Time: 320
+Artist: Beyoncé
+Title: Partition
+Album: BEYONCÉ
+Track: 6
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390892996
+song_end
+song_begin: 07 Jealous.mp3
+Time: 184
+Artist: Beyoncé
+Title: Jealous
+Album: BEYONCÉ
+Track: 7
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390892719
+song_end
+song_begin: 08 Rocket.mp3
+Time: 392
+Artist: Beyoncé
+Title: Rocket
+Album: BEYONCÉ
+Track: 8
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390893036
+song_end
+song_begin: 09 Mine (feat. Drake).mp3
+Time: 379
+Artist: Beyoncé
+Title: Mine (feat. Drake)
+Album: BEYONCÉ
+Track: 9
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390893037
+song_end
+song_begin: 10 XO.mp3
+Time: 216
+Artist: Beyoncé
+Title: XO
+Album: BEYONCÉ
+Track: 10
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390892719
+song_end
+song_begin: 11 ___Flawless (feat. Chimamanda Ngozi Adiche).mp3
+Time: 251
+Artist: Beyoncé
+Title: ***Flawless (feat. Chimamanda Ngozi Adiche)
+Album: BEYONCÉ
+Track: 11
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390892518
+song_end
+song_begin: 12 Superpower (feat. Frank Ocean).mp3
+Time: 277
+Artist: Beyoncé
+Title: Superpower (feat. Frank Ocean)
+Album: BEYONCÉ
+Track: 12
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390893031
+song_end
+song_begin: 13 Heaven.mp3
+Time: 231
+Artist: Beyoncé
+Title: Heaven
+Album: BEYONCÉ
+Track: 13
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390893034
+song_end
+song_begin: 14 Blue (feat. Blue Ivy).mp3
+Time: 267
+Artist: Beyoncé
+Title: Blue (feat. Blue Ivy)
+Album: BEYONCÉ
+Track: 14
+Genre: ⒀
+Composer: Beyoncé
+mtime: 1390893037
+song_end
+end: Beyonce Beyonce 2013
+directory: Bruno Mars - Unorthodox Jukebox (iTunes Deluxe Version) 2012 320kbps CBR MP3 [VX] [P2PDL]
+mtime: 1357780296
+begin: Bruno Mars - Unorthodox Jukebox (iTunes Deluxe Version) 2012 320kbps CBR MP3 [VX] [P2PDL]
+song_begin: 16 Locked Out of Heaven.m4v
+Time: 234
+Artist: Bruno Mars
+Title: Locked Out of Heaven
+Genre: Pop
+Date: 2012-10-16T07:00:00Z
+mtime: 1357764669
+song_end
+song_begin: 11 Bruno Mars - Old & Crazy (Feat. Esperanza Spalding).mp3
+Time: 113
+Artist: Bruno Mars
+Title: Old & Crazy (Feat. Esperanza Spalding)
+Album: Unorthodox Jukebox
+Track: 11/15
+Date: 2012
+Genre: Pop
+mtime: 1357764750
+song_end
+song_begin: 12 Bruno Mars - Young Girls (Demo).mp3
+Time: 219
+Artist: Bruno Mars
+Title: Young Girls (Demo)
+Album: Unorthodox Jukebox
+Track: 12/15
+Date: 2012
+Genre: Pop
+mtime: 1357764743
+song_end
+song_begin: 13 Bruno Mars - Gorilla (Demo).mp3
+Time: 223
+Artist: Bruno Mars
+Title: Gorilla (Demo)
+Album: Unorthodox Jukebox
+Track: 13/15
+Date: 2012
+Genre: Pop
+mtime: 1357764732
+song_end
+song_begin: 14 Bruno Mars - Moonshine (The Futuristics Remix).mp3
+Time: 222
+Artist: Bruno Mars
+Title: Moonshine (The Futuristics Remix)
+Album: Unorthodox Jukebox
+Track: 14/15
+Date: 2012
+Genre: Pop
+mtime: 1357764721
+song_end
+song_begin: 15 Bruno Mars - Locked Out Of Heaven (Major Lazer Remix).mp3
+Time: 244
+Artist: Bruno Mars
+Title: Locked Out Of Heaven (Major Lazer Remix)
+Album: Unorthodox Jukebox
+Track: 15/15
+Date: 2012
+Genre: Pop
+mtime: 1357764729
+song_end
+song_begin: 01 Bruno Mars - Young Girls.mp3
+Time: 230
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Young Girls
+Album: Unorthodox Jukebox
+Track: 1/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764743
+song_end
+song_begin: 02 Bruno Mars - Locked Out of Heaven.mp3
+Time: 234
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Locked Out of Heaven
+Album: Unorthodox Jukebox
+Track: 2/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764749
+song_end
+song_begin: 03 Bruno Mars - Gorilla.mp3
+Time: 245
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Gorilla
+Album: Unorthodox Jukebox
+Track: 3/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764740
+song_end
+song_begin: 04 Bruno Mars - Treasure.mp3
+Time: 179
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Treasure
+Album: Unorthodox Jukebox
+Track: 4/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764736
+song_end
+song_begin: 05 Bruno Mars - Moonshine.mp3
+Time: 229
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Moonshine
+Album: Unorthodox Jukebox
+Track: 5/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764743
+song_end
+song_begin: 06 Bruno Mars - When I Was Your Man.mp3
+Time: 214
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: When I Was Your Man
+Album: Unorthodox Jukebox
+Track: 6/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764745
+song_end
+song_begin: 07 Bruno Mars - Natalie.mp3
+Time: 225
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Natalie
+Album: Unorthodox Jukebox
+Track: 7/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764747
+song_end
+song_begin: 08 Bruno Mars - Show Me.mp3
+Time: 208
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Show Me
+Album: Unorthodox Jukebox
+Track: 8/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764747
+song_end
+song_begin: 09 Bruno Mars - Money Make Her Smile.mp3
+Time: 204
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Money Make Her Smile
+Album: Unorthodox Jukebox
+Track: 9/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764754
+song_end
+song_begin: 10 Bruno Mars - If I Knew.mp3
+Time: 133
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: If I Knew
+Album: Unorthodox Jukebox
+Track: 10/10
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1357764750
+song_end
+end: Bruno Mars - Unorthodox Jukebox (iTunes Deluxe Version) 2012 320kbps CBR MP3 [VX] [P2PDL]
+directory: Chance The Rapper - Acidrap
+mtime: 1391494104
+begin: Chance The Rapper - Acidrap
+song_begin: 01 Good Ass Intro (ft. BJ The Chicago Kid, Lili K., Kiara Lanier, Peter Cottontale, Will for the O'mys, & JP Floyd for Kids These Days).mp3
+Time: 239
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Good Ass Intro (ft. BJ The Chicago Kid, Lili K., Kiara Lanier, Peter Cottontale, Will for the O'mys, & JP Floydd for Kids These Days)
+Album: Acid Rap
+Track: 1/13
+Date: 2013
+Genre: Acid Rap
+Composer: Peter Cottontale, Cam for J.U.S.T.I.C.E League & Stefan Ponce
+Disc: 1/1
+mtime: 1391494167
+song_end
+song_begin: 02 Pusha Man (ft. Nate Fox & Lili K.).mp3
+Time: 444
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Pusha Man (ft. Nate Fox & Lili K.)
+Album: Acid Rap
+Track: 2/13
+Date: 2013
+Genre: Acid Rap
+Composer: Ceej for Two9
+Disc: 1/1
+mtime: 1391494177
+song_end
+song_begin: 03 Cocoa Butter Kisses (ft. Vic Mensa & Twista).mp3
+Time: 307
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Cocoa Butter Kisses (ft. Vic Mensa & Twista)
+Album: Acid Rap
+Track: 3/13
+Date: 2013
+Genre: Acid Rap
+Composer: Cam for J.U.S.T.I.C.E League & Peter Cottontale
+Disc: 1/1
+mtime: 1391494134
+song_end
+song_begin: 04 Juice.mp3
+Time: 215
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Juice
+Album: Acid Rap
+Track: 4/13
+Date: 2013
+Genre: Acid Rap
+Composer: Nate Fox
+Disc: 1/1
+mtime: 1391494173
+song_end
+song_begin: 05 Lost (ft. Noname Gypsy).mp3
+Time: 185
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Lost (ft. Noname Gypsy)
+Album: Acid Rap
+Track: 5/13
+Date: 2013
+Genre: Acid Rap
+Composer: Nate Fox
+Disc: 1/1
+mtime: 1391494176
+song_end
+song_begin: 06 Everybody's Something (ft. Saba & BJ The Chicago Kid) 1.mp3
+Time: 277
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Everybody's Something (ft. Saba & BJ The Chicago Kid)
+Album: Acid Rap
+Track: 6/13
+Date: 2013
+Genre: Acid Rap
+Composer: DJ Ozone
+Disc: 1/1
+mtime: 1391494174
+song_end
+song_begin: 07 Interlude (That's Love).mp3
+Time: 150
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Interlude (That's Love)
+Album: Acid Rap
+Track: 7/13
+Date: 2013
+Genre: Acid Rap
+Composer: Ludwig Gorransen
+Disc: 1/1
+mtime: 1391494177
+song_end
+song_begin: 08 Favorite Song (ft. Childish Gambino).mp3
+Time: 185
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Favorite Song (ft. Childish Gambino)
+Album: Acid Rap
+Track: 8/13
+Date: 2013
+Genre: Acid Rap
+Composer: Nate Fox
+Disc: 1/1
+mtime: 1391494176
+song_end
+song_begin: 09 NaNa (ft. Action Bronson).mp3
+Time: 201
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: NaNa (ft. Action Bronson)
+Album: Acid Rap
+Track: 9/13
+Date: 2013
+Genre: Acid Rap
+Composer: Brandun Deshay
+Disc: 1/1
+mtime: 1391494175
+song_end
+song_begin: 10 Smoke Again (ft. Ab-Soul).mp3
+Time: 273
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Smoke Again (ft. Ab-Soul)
+Album: Acid Rap
+Track: 10/13
+Date: 2013
+Genre: Acid Rap
+Composer: Blended Babies
+Disc: 1/1
+mtime: 1391494177
+song_end
+song_begin: 11 Acid Rain.mp3
+Time: 216
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Acid Rain
+Album: Acid Rap
+Track: 11/13
+Date: 2013
+Genre: Acid Rap
+Composer: Jake One
+Disc: 1/1
+mtime: 1391494147
+song_end
+song_begin: 12 Chain Smoker.mp3
+Time: 211
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Chain Smoker
+Album: Acid Rap
+Track: 12/13
+Date: 2013
+Genre: Acid Rap
+Composer: Nate Fox
+Disc: 1/1
+mtime: 1391494174
+song_end
+song_begin: 13 Everything's Good (Good Ass Outro).mp3
+Time: 333
+Artist: Chance The Rapper
+AlbumArtist: Chance The Rapper
+Title: Everything's Good (Good Ass Outro)
+Album: Acid Rap
+Track: 13/13
+Date: 2013
+Genre: Acid Rap
+Composer: Cam for J.U.S.T.I.C.E League
+Disc: 1/1
+mtime: 1391494175
+song_end
+end: Chance The Rapper - Acidrap
+directory: Corinne Bailey Rae
+mtime: 1390383514
+begin: Corinne Bailey Rae
+directory: Corinne Bailey Rae
+mtime: 1390383514
+begin: Corinne Bailey Rae/Corinne Bailey Rae
+song_begin: 01 Like a Star.mp3
+Time: 243
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Like a Star
+Album: Corinne Bailey Rae
+Track: 1
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae
+mtime: 1390383716
+song_end
+song_begin: 02 Enchantment.mp3
+Time: 238
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Enchantment
+Album: Corinne Bailey Rae
+Track: 2
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Rod Bowkett
+mtime: 1390383744
+song_end
+song_begin: 03 Put Your Records On.mp3
+Time: 215
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Put Your Records On
+Album: Corinne Bailey Rae
+Track: 3
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/John Beck/Steve Chrisanthou
+mtime: 1390383734
+song_end
+song_begin: 04 Till It Happens to You.mp3
+Time: 278
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Till It Happens to You
+Album: Corinne Bailey Rae
+Track: 4
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Pamela Sheyne/Paul Herman
+mtime: 1390383748
+song_end
+song_begin: 05 Trouble Sleeping.mp3
+Time: 209
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Trouble Sleeping
+Album: Corinne Bailey Rae
+Track: 5
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/John Beck/Steve Chrisanthou
+mtime: 1390383646
+song_end
+song_begin: 06 Call Me When You Get This.mp3
+Time: 305
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Call Me When You Get This
+Album: Corinne Bailey Rae
+Track: 6
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/John Beck/Steve Bush/Steve Chrisanthou
+mtime: 1390383780
+song_end
+song_begin: 07 Choux Pastry Heart.mp3
+Time: 237
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Choux Pastry Heart
+Album: Corinne Bailey Rae
+Track: 7
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Teitur Lassen
+mtime: 1390383782
+song_end
+song_begin: 08 Breathless.mp3
+Time: 255
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Breathless
+Album: Corinne Bailey Rae
+Track: 8
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Marc Nelkin
+mtime: 1390383782
+song_end
+song_begin: 09 I'd Like To.mp3
+Time: 248
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: I'd Like To
+Album: Corinne Bailey Rae
+Track: 9
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Paul Herman/Tommy Danvers
+mtime: 1390383534
+song_end
+song_begin: 10 Butterfly.mp3
+Time: 233
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Butterfly
+Album: Corinne Bailey Rae
+Track: 10
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Rod Bowkett
+mtime: 1390383553
+song_end
+song_begin: 11 Seasons Change.mp3
+Time: 295
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Seasons Change
+Album: Corinne Bailey Rae
+Track: 11
+Date: 2006
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Steve Brown
+mtime: 1390383732
+song_end
+end: Corinne Bailey Rae/Corinne Bailey Rae
+directory: Corinne Bailey Rae [Special Edition] Disc 2
+mtime: 1390383514
+begin: Corinne Bailey Rae/Corinne Bailey Rae [Special Edition] Disc 2
+song_begin: 01 Since I've Been Loving You.mp3
+Time: 264
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Since I've Been Loving You
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 1
+Date: 2007
+Genre: Soul And R&B
+Composer: Jimmy Page/Jones, John Paul/Robert Plant
+mtime: 1390383740
+song_end
+song_begin: 02 Emeraldine.mp3
+Time: 272
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Emeraldine
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 2
+Date: 2007
+Genre: Soul And R&B
+Composer: Andrew Hale/Corinne Bailey Rae
+mtime: 1390383602
+song_end
+song_begin: 03 Munich.mp3
+Time: 239
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Munich
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 3
+Date: 2007
+Genre: Soul And R&B
+Composer: Lay, Edward Owen/Russell Leetch/Smith, Thomas Michael/Urbanowicz, Christopher Dominic
+mtime: 1390383602
+song_end
+song_begin: 04 No Love Child.mp3
+Time: 242
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: No Love Child
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 4
+Date: 2007
+Genre: Soul And R&B
+Composer: Cara Robinson/Wayne Pollock
+mtime: 1390383602
+song_end
+song_begin: 05 Enchantment [Amp Fiddler Remix].mp3
+Time: 204
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Enchantment [Amp Fiddler Remix]
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 5
+Date: 2007
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Rod Bowkett
+mtime: 1390383663
+song_end
+song_begin: 06 Venus as a Boy.mp3
+Time: 179
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Venus as a Boy
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 6
+Date: 2007
+Genre: Soul And R&B
+Composer: Björk Gudmundsdottir
+mtime: 1390383630
+song_end
+song_begin: 07 I'd Like To [Weekender Mix].mp3
+Time: 211
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: I'd Like To [Weekender Mix]
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 7
+Date: 2007
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Paul Herman/Tommy Danvers
+mtime: 1390383732
+song_end
+song_begin: 08 I Won't Let You Lie to Yourself.mp3
+Time: 231
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: I Won't Let You Lie to Yourself
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 8
+Date: 2007
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae/Marc Nelkin/Teitur Lassen
+mtime: 1390383782
+song_end
+song_begin: 09 Another Rainy Day.mp3
+Time: 196
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Another Rainy Day
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 9
+Date: 2007
+Genre: Soul And R&B
+Composer: Corinne Bailey Rae
+mtime: 1390383611
+song_end
+song_begin: 10 Daydreaming.mp3
+Time: 237
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Daydreaming
+Album: Corinne Bailey Rae [Special Edition] Disc 2
+Track: 10
+Date: 2007
+Genre: Soul And R&B
+Composer: Aretha Franklin
+mtime: 1390383782
+song_end
+end: Corinne Bailey Rae/Corinne Bailey Rae [Special Edition] Disc 2
+end: Corinne Bailey Rae
+directory: Corinne Bailey Rae - The Love EP
+mtime: 1390383481
+begin: Corinne Bailey Rae - The Love EP
+song_begin: Corinne Bailey Rae - I Wanna Be Your Lover.mp3
+Time: 209
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: I Wanna Be Your Lover
+Album: The Love EP
+Track: 01
+Date: 2011-01-25
+Genre: Styles
+mtime: 1390383609
+song_end
+song_begin: Corinne Bailey Rae - Low Red Moon.mp3
+Time: 300
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Low Red Moon
+Album: The Love EP
+Track: 02
+Date: 2011-01-25
+Genre: Styles
+mtime: 1390383599
+song_end
+song_begin: Corinne Bailey Rae - Is This Love.mp3
+Time: 209
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Is This Love
+Album: The Love EP
+Track: 03
+Date: 2011-01-25
+Genre: Styles
+mtime: 1390383613
+song_end
+song_begin: Corinne Bailey Rae - My Love.mp3
+Time: 197
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: My Love
+Album: The Love EP
+Track: 04
+Date: 2011-01-25
+Genre: Styles
+mtime: 1390383610
+song_end
+song_begin: Corinne Bailey Rae - Que Sera Sera (Live).mp3
+Time: 807
+Artist: Corinne Bailey Rae
+AlbumArtist: Corinne Bailey Rae
+Title: Que Sera Sera (Live)
+Album: The Love EP
+Track: 05
+Date: 2011-01-25
+Genre: Styles
+mtime: 1390383577
+song_end
+playlist_begin: Corinne Bailey Rae - The Love EP.m3u
+mtime: 1390383556
+playlist_end
+end: Corinne Bailey Rae - The Love EP
+directory: Corinne Bailey Rae - The Sea (2010) - Soul [www.torrentazos.com]
+mtime: 1354903742
+begin: Corinne Bailey Rae - The Sea (2010) - Soul [www.torrentazos.com]
+song_begin: 01-corinne_bailey_rae-are_you_here.mp3
+Time: 253
+Artist: Corinne Bailey Rae
+Title: Are You Here
+Album: The Sea
+Track: 1/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029984
+song_end
+song_begin: 02-corinne_bailey_rae-id_do_it_all_again.mp3
+Time: 188
+Artist: Corinne Bailey Rae
+Title: I'd Do It All Again
+Album: The Sea
+Track: 2/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029983
+song_end
+song_begin: 03-corinne_bailey_rae-feels_like_the_first_time.mp3
+Time: 193
+Artist: Corinne Bailey Rae
+Title: Feels Like The First Time
+Album: The Sea
+Track: 3/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029981
+song_end
+song_begin: 04-corinne_bailey_rae-the_blackest_lily.mp3
+Time: 218
+Artist: Corinne Bailey Rae
+Title: The Blackest Lily
+Album: The Sea
+Track: 4/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029980
+song_end
+song_begin: 05-corinne_bailey_rae-closer.mp3
+Time: 257
+Artist: Corinne Bailey Rae
+Title: Closer
+Album: The Sea
+Track: 5/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029983
+song_end
+song_begin: 06-corinne_bailey_rae-loves_on_its_way.mp3
+Time: 235
+Artist: Corinne Bailey Rae
+Title: Loves On Its Way
+Album: The Sea
+Track: 6/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029982
+song_end
+song_begin: 07-corinne_bailey_rae-i_would_like_to_call_it_beauty.mp3
+Time: 259
+Artist: Corinne Bailey Rae
+Title: I Would Like To Call It Beauty
+Album: The Sea
+Track: 7/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029982
+song_end
+song_begin: 08-corinne_bailey_rae-paris_nights-new_york_mornings.mp3
+Time: 231
+Artist: Corinne Bailey Rae
+Title: Paris Nights/New York Mornings
+Album: The Sea
+Track: 8/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029983
+song_end
+song_begin: 09-corinne_bailey_rae-paper_dolls.mp3
+Time: 200
+Artist: Corinne Bailey Rae
+Title: Paper Dolls
+Album: The Sea
+Track: 9/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029980
+song_end
+song_begin: 10-corinne_bailey_rae-diving_for_hearts.mp3
+Time: 291
+Artist: Corinne Bailey Rae
+Title: Diving For Hearts
+Album: The Sea
+Track: 10/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029984
+song_end
+song_begin: 11-corinne_bailey_rae-the_sea.mp3
+Time: 245
+Artist: Corinne Bailey Rae
+Title: The Sea
+Album: The Sea
+Track: 11/11
+Date: 2010-01-26
+Genre: Soul
+mtime: 1322029981
+song_end
+playlist_begin: 00-corinne_bailey_rae-the_sea-2010.m3u
+mtime: 1322029960
+playlist_end
+end: Corinne Bailey Rae - The Sea (2010) - Soul [www.torrentazos.com]
+directory: Cults - Static (2013)
+mtime: 1390081370
+begin: Cults - Static (2013)
+song_begin: 01 - I Know.mp3
+Time: 102
+Artist: Cults
+AlbumArtist: Cults
+Title: I Know
+Album: Static
+Track: 1/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023148
+song_end
+song_begin: 02 - I Can Hardly Make You Mine.mp3
+Time: 211
+Artist: Cults
+AlbumArtist: Cults
+Title: I Can Hardly Make You Mine
+Album: Static
+Track: 2/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023164
+song_end
+song_begin: 03 - Always Forever.mp3
+Time: 224
+Artist: Cults
+AlbumArtist: Cults
+Title: Always Forever
+Album: Static
+Track: 3/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023192
+song_end
+song_begin: 04 - High Road.mp3
+Time: 269
+Artist: Cults
+AlbumArtist: Cults
+Title: High Road
+Album: Static
+Track: 4/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023196
+song_end
+song_begin: 05 - Were Before.mp3
+Time: 181
+Artist: Cults
+AlbumArtist: Cults
+Title: Were Before
+Album: Static
+Track: 5/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023195
+song_end
+song_begin: 06 - So Far.mp3
+Time: 209
+Artist: Cults
+AlbumArtist: Cults
+Title: So Far
+Album: Static
+Track: 6/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023161
+song_end
+song_begin: 07 - Keep Your Head Up.mp3
+Time: 218
+Artist: Cults
+AlbumArtist: Cults
+Title: Keep Your Head Up
+Album: Static
+Track: 7/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023194
+song_end
+song_begin: 08 - TV Dream.mp3
+Time: 63
+Artist: Cults
+AlbumArtist: Cults
+Title: TV Dream
+Album: Static
+Track: 8/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023192
+song_end
+song_begin: 09 - We've Got It.mp3
+Time: 206
+Artist: Cults
+AlbumArtist: Cults
+Title: We've Got It
+Album: Static
+Track: 9/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023196
+song_end
+song_begin: 10 - Shine A Light.mp3
+Time: 194
+Artist: Cults
+AlbumArtist: Cults
+Title: Shine A Light
+Album: Static
+Track: 10/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023159
+song_end
+song_begin: 11 - No Hope.mp3
+Time: 225
+Artist: Cults
+AlbumArtist: Cults
+Title: No Hope
+Album: Static
+Track: 11/11
+Date: 2013
+Genre: Indie
+Disc: 1/1
+mtime: 1390023192
+song_end
+end: Cults - Static (2013)
+directory: Cults-Cults-2011-SiRE
+mtime: 1390081373
+begin: Cults-Cults-2011-SiRE
+song_begin: 01-cults-abducted.mp3
+Time: 173
+Artist: Cults
+Title: Abducted
+Album: Cults
+Track: 1/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023233
+song_end
+song_begin: 02-cults-go_outside.mp3
+Time: 204
+Artist: Cults
+Title: Go Outside
+Album: Cults
+Track: 2/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023230
+song_end
+song_begin: 03-cults-you_know_what_i_mean.mp3
+Time: 152
+Artist: Cults
+Title: You Know What I Mean
+Album: Cults
+Track: 3/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023234
+song_end
+song_begin: 04-cults-most_wanted.mp3
+Time: 185
+Artist: Cults
+Title: Most Wanted
+Album: Cults
+Track: 4/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023233
+song_end
+song_begin: 05-cults-walk_at_night.mp3
+Time: 188
+Artist: Cults
+Title: Walk At Night
+Album: Cults
+Track: 5/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023239
+song_end
+song_begin: 06-cults-never_heal_myself.mp3
+Time: 183
+Artist: Cults
+Title: Never Heal Myself
+Album: Cults
+Track: 6/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023237
+song_end
+song_begin: 07-cults-oh_my_god.mp3
+Time: 201
+Artist: Cults
+Title: Oh My God
+Album: Cults
+Track: 7/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023237
+song_end
+song_begin: 08-cults-never_saw_the_point.mp3
+Time: 184
+Artist: Cults
+Title: Never Saw The Point
+Album: Cults
+Track: 8/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023239
+song_end
+song_begin: 09-cults-bad_things.mp3
+Time: 220
+Artist: Cults
+Title: Bad Things
+Album: Cults
+Track: 9/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023237
+song_end
+song_begin: 10-cults-bumper.mp3
+Time: 162
+Artist: Cults
+Title: Bumper
+Album: Cults
+Track: 10/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023234
+song_end
+song_begin: 11-cults-rave_on.mp3
+Time: 172
+Artist: Cults
+Title: Rave On
+Album: Cults
+Track: 11/11
+Date: 2011-05-30
+Genre: Indie
+Genre: Indie
+mtime: 1390023238
+song_end
+playlist_begin: 00-cults-cults-2011.m3u
+mtime: 1390023187
+playlist_end
+end: Cults-Cults-2011-SiRE
+directory: David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG
+mtime: 1357709546
+begin: David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG
+song_begin: 01 - Titanium feat. Sia.mp3
+Time: 245
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Titanium feat. Sia
+Album: Nothing But The Beat 2.0
+Track: 01
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329429
+song_end
+song_begin: 02 - Turn Me On feat. Nicki Minaj.mp3
+Time: 200
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Turn Me On feat. Nicki Minaj
+Album: Nothing But The Beat 2.0
+Track: 02
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329401
+song_end
+song_begin: 03 - She Wolf (Falling IntoTo Pieces) feat. Sia.mp3
+Time: 222
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: She Wolf (Falling IntoTo Pieces) feat. Sia
+Album: Nothing But The Beat 2.0
+Track: 03
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329381
+song_end
+song_begin: 04 - Without You feat. Usher.mp3
+Time: 208
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Without You feat. Usher
+Album: Nothing But The Beat 2.0
+Track: 04
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329424
+song_end
+song_begin: 05 - I Can Only Imagine feat. Chris Brown & Lil Wayne.mp3
+Time: 209
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: I Can Only Imagine feat. Chris Brown & Lil Wayne
+Album: Nothing But The Beat 2.0
+Track: 05
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329467
+song_end
+song_begin: 06 - Play Hard feat. Ne - Yo & Akon.mp3
+Time: 201
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Play Hard feat. Ne - Yo & Akon
+Album: Nothing But The Beat 2.0
+Track: 06
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329416
+song_end
+song_begin: 07 - Wild One 2 (Edit) feat. Sia.mp3
+Time: 189
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Wild One 2 (Edit) feat. Sia
+Album: Nothing But The Beat 2.0
+Track: 07
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329463
+song_end
+song_begin: 08 - Just One Last Time feat. Taped Rai.mp3
+Time: 227
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Just One Last Time feat. Taped Rai
+Album: Nothing But The Beat 2.0
+Track: 08
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329401
+song_end
+song_begin: 09 - In My Head feat. Nervo.mp3
+Time: 231
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: In My Head feat. Nervo
+Album: Nothing But The Beat 2.0
+Track: 09
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329472
+song_end
+song_begin: 10 - Where Them Girls At feat. Flo Rida & Nicki Minaj.mp3
+Time: 210
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Where Them Girls At feat. Flo Rida & Nicki Minaj
+Album: Nothing But The Beat 2.0
+Track: 10
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329427
+song_end
+song_begin: 11 - Little Bad Girl feat. Taio Cruz & Ludacris.mp3
+Time: 191
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Little Bad Girl feat. Taio Cruz & Ludacris
+Album: Nothing But The Beat 2.0
+Track: 11
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329467
+song_end
+song_begin: 12 - Sweat (David Guetta Remix) - David Guetta vs. Snoop Dogg.mp3
+Time: 196
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Sweat (David Guetta Remix) - David Guetta vs. Snoop Dogg
+Album: Nothing But The Beat 2.0
+Track: 12
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329442
+song_end
+song_begin: 13 - Crank It Up feat. Akon.mp3
+Time: 193
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Crank It Up feat. Akon
+Album: Nothing But The Beat 2.0
+Track: 13
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329425
+song_end
+song_begin: 14 - I Just Wanna F. (Feat. Timbaland & Dev).mp3
+Time: 204
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: I Just Wanna F. (Feat. Timbaland & Dev)
+Album: Nothing But The Beat 2.0
+Track: 14
+Date: 2012
+Genre: Dance
+Composer: David Guetta, Timothy Zachery Mosley, Devin Star Tailes, Nick Van De Wall
+Disc: 1/1
+mtime: 1355329452
+song_end
+song_begin: 15 - Nothing Really Matters feat. will.i.am.mp3
+Time: 220
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Nothing Really Matters feat. will.i.am
+Album: Nothing But The Beat 2.0
+Track: 15
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329441
+song_end
+song_begin: 16 Repeat (Feat. Jessie J).mp3
+Time: 206
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Repeat (Feat. Jessie J)
+Album: Nothing But The Beat 2.0
+Track: 16
+Date: 2012
+Genre: Dance
+Composer: David Guetta, Giorgio Tuinfort, Frédéric Riesterer, Jessica "Jessie J" Ellen Cornish
+Disc: 1/1
+mtime: 1355329456
+song_end
+song_begin: 17 Night Of Your Life (Feat. Jennifer Hudson).mp3
+Time: 222
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Night Of Your Life (Feat. Jennifer Hudson)
+Album: Nothing But The Beat 2.0
+Track: 17
+Date: 2012
+Genre: Dance
+Composer: David Guetta, Giorgio Tuinfort, Frédéric Riesterer, Jennifer Kate Hudson, Crystal Nicole Johnson, Anthony Preston, Miriam Nervo, Olivia Nervo
+Disc: 1/1
+mtime: 1355329452
+song_end
+song_begin: 18 - Every Chance We Get We Run feat. Tegan Quin & Sara - David Guetta & Alesso.mp3
+Time: 240
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Every Chance We Get We Run feat. Tegan Quin & Sara - David Guetta & Alesso
+Album: Nothing But The Beat 2.0
+Track: 18
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329466
+song_end
+song_begin: 19 - Sunshine (Edit).mp3
+Time: 232
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Sunshine (Edit)
+Album: Nothing But The Beat 2.0
+Track: 19
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329468
+song_end
+song_begin: 20 - Lunar (Edit).mp3
+Time: 190
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Lunar (Edit)
+Album: Nothing But The Beat 2.0
+Track: 20
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329471
+song_end
+song_begin: 21 - What The F.mp3
+Time: 247
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: What The F***
+Album: Nothing But The Beat 2.0
+Track: 21
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329452
+song_end
+song_begin: 22 - Metropolis (Edit).mp3
+Time: 190
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: Metropolis (Edit)
+Album: Nothing But The Beat 2.0
+Track: 22
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329455
+song_end
+song_begin: 23 - The Alphabeat.mp3
+Time: 269
+Artist: David Guetta
+AlbumArtist: David Guetta
+Title: The Alphabeat
+Album: Nothing But The Beat 2.0
+Track: 23
+Date: 2012
+Genre: Dance
+Disc: 1/1
+mtime: 1355329467
+song_end
+playlist_begin: Playlist.pls
+mtime: 1355329417
+playlist_end
+playlist_begin: Playlist.m3u
+mtime: 1355329417
+playlist_end
+end: David Guetta - Nothing But The Beat 2.0 [2012-Album Leak] NimitMak SilverRG
+directory: Diana Krall - Candlelit Evening (2010) [EAC-FLAC]
+mtime: 1390383943
+begin: Diana Krall - Candlelit Evening (2010) [EAC-FLAC]
+song_begin: 01 - S'Wonderful.flac
+Time: 259
+Title: S'Wonderful
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 01
+Date: 2010
+Genre: Vocal
+mtime: 1390384233
+song_end
+song_begin: 02 - Dancing In The Dark.flac
+Time: 349
+Title: Dancing In The Dark
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 02
+Date: 2010
+Genre: Vocal
+mtime: 1390384341
+song_end
+song_begin: 03 - Besame Mucho.flac
+Time: 401
+Title: Besame Mucho
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 03
+Date: 2010
+Genre: Vocal
+mtime: 1390384315
+song_end
+song_begin: 04 - Temptation.flac
+Time: 270
+Title: Temptation
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 04
+Date: 2010
+Genre: Vocal
+mtime: 1390384424
+song_end
+song_begin: 05 - Just The Way You Are.flac
+Time: 299
+Title: Just The Way You Are
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 05
+Date: 2010
+Genre: Vocal
+mtime: 1390384422
+song_end
+song_begin: 06 - I Remember You.flac
+Time: 238
+Title: I Remember You
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 06
+Date: 2010
+Genre: Vocal
+mtime: 1390384437
+song_end
+song_begin: 07 - I've Got You Under My Skin.flac
+Time: 371
+Title: I've Got You Under My Skin
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 07
+Date: 2010
+Genre: Vocal
+mtime: 1390384460
+song_end
+song_begin: 08 - Peel Me A Grape.flac
+Time: 354
+Title: Peel Me A Grape
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 08
+Date: 2010
+Genre: Vocal
+mtime: 1390384475
+song_end
+song_begin: 09 - I'm Thru With Love.flac
+Time: 268
+Title: I'm Thru With Love
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 09
+Date: 2010
+Genre: Vocal
+mtime: 1390384497
+song_end
+song_begin: 10 - Lets Face The Music And Dance.flac
+Time: 319
+Title: Lets Face The Music And Dance
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 10
+Date: 2010
+Genre: Vocal
+mtime: 1390384496
+song_end
+song_begin: 11 - The Look Of Love.flac
+Time: 284
+Title: The Look Of Love
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 11
+Date: 2010
+Genre: Vocal
+mtime: 1390384526
+song_end
+song_begin: 12 - I Miss You So.flac
+Time: 284
+Title: I Miss You So
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 12
+Date: 2010
+Genre: Vocal
+mtime: 1390384540
+song_end
+song_begin: 13 - And I Love Her.flac
+Time: 428
+Title: And I Love Her
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 13
+Date: 2010
+Genre: Vocal
+mtime: 1390384540
+song_end
+song_begin: 14 - East Of The Sun And West Of The Moon.flac
+Time: 298
+Title: East Of The Sun And West Of The Moon
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 14
+Date: 2010
+Genre: Vocal
+mtime: 1390384421
+song_end
+song_begin: 15 - Love Letters.flac
+Time: 297
+Title: Love Letters
+Artist: Diana Krall
+Album: Candlelit Evening
+Track: 15
+Date: 2010
+Genre: Vocal
+mtime: 1390384390
+song_end
+playlist_begin: Diana Krall - Candlelit Evening.cue
+mtime: 1390384136
+playlist_end
+end: Diana Krall - Candlelit Evening (2010) [EAC-FLAC]
+directory: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]
+mtime: 1390722387
+begin: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]
+directory: CD 1
+mtime: 1390722387
+begin: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1
+song_begin: 01. Bad Guy.mp3
+Time: 434
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Bad Guy
+Album: The Marshall Mathers LP2
+Track: 1/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722660
+song_end
+song_begin: 02. Parking Lot (skit).mp3
+Time: 55
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Parking Lot (skit)
+Album: The Marshall Mathers LP2
+Track: 2/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722726
+song_end
+song_begin: 03. Rhyme Or Reason.mp3
+Time: 302
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Rhyme Or Reason
+Album: The Marshall Mathers LP2
+Track: 3/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722729
+song_end
+song_begin: 04. So Much Better.mp3
+Time: 261
+Artist: Eminem
+AlbumArtist: Eminem
+Title: So Much Better
+Album: The Marshall Mathers LP2
+Track: 4/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722784
+song_end
+song_begin: 05. Survival.mp3
+Time: 274
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Survival
+Album: The Marshall Mathers LP2
+Track: 5/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722563
+song_end
+song_begin: 06. Legacy.mp3
+Time: 296
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Legacy
+Album: The Marshall Mathers LP2
+Track: 6/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722779
+song_end
+song_begin: 07. Asshole (feat. Skylar Grey).mp3
+Time: 289
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Asshole (feat. Skylar Grey)
+Album: The Marshall Mathers LP2
+Track: 7/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722429
+song_end
+song_begin: 08. Berzerk.mp3
+Time: 239
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Berzerk
+Album: The Marshall Mathers LP2
+Track: 8/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722750
+song_end
+song_begin: 09. Rap God.mp3
+Time: 364
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Rap God
+Album: The Marshall Mathers LP2
+Track: 9/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722667
+song_end
+song_begin: 10. Brainless.mp3
+Time: 287
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Brainless
+Album: The Marshall Mathers LP2
+Track: 10/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722511
+song_end
+song_begin: 11. Stronger Than I Was.mp3
+Time: 337
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Stronger Than I Was
+Album: The Marshall Mathers LP2
+Track: 11/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722785
+song_end
+song_begin: 12. The Monster (feat. Rihanna).mp3
+Time: 250
+Artist: Eminem
+AlbumArtist: Eminem
+Title: The Monster (feat. Rihanna)
+Album: The Marshall Mathers LP2
+Track: 12/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722690
+song_end
+song_begin: 13. So Far....mp3
+Time: 318
+Artist: Eminem
+AlbumArtist: Eminem
+Title: So Far...
+Album: The Marshall Mathers LP2
+Track: 13/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722783
+song_end
+song_begin: 14. Love Game (Ft. Kendrick Lamar).mp3
+Time: 297
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Love Game (Ft. Kendrick Lamar)
+Album: The Marshall Mathers LP2
+Track: 14/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722732
+song_end
+song_begin: 15. Headlights (Ft. Nate Ruess).mp3
+Time: 343
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Headlights (Ft. Nate Ruess)
+Album: The Marshall Mathers LP2
+Track: 15/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722785
+song_end
+song_begin: 16. Evil Twin.mp3
+Time: 357
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Evil Twin
+Album: The Marshall Mathers LP2
+Track: 16/16
+Date: 2013
+Genre: Rap
+Disc: 1/2
+mtime: 1390722629
+song_end
+end: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1
+directory: CD 2
+mtime: 1390722387
+begin: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2
+song_begin: 01. Baby.mp3
+Time: 263
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Baby
+Album: The Marshall Mathers LP2
+Track: 1/5
+Date: 2013
+Genre: Rap
+Disc: 2/2
+mtime: 1390722789
+song_end
+song_begin: 02. Desperation (feat. Jamie N Commons).mp3
+Time: 237
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Desperation (feat. Jamie N Commons)
+Album: The Marshall Mathers LP2
+Track: 2/5
+Date: 2013
+Genre: Rap
+Disc: 2/2
+mtime: 1390722790
+song_end
+song_begin: 03. Groundhog Day.mp3
+Time: 294
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Groundhog Day
+Album: The Marshall Mathers LP2
+Track: 3/5
+Date: 2013
+Genre: Rap
+Disc: 2/2
+mtime: 1390722783
+song_end
+song_begin: 04. Beautiful Pain (feat. Sia).mp3
+Time: 265
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Beautiful Pain (feat. Sia)
+Album: The Marshall Mathers LP2
+Track: 4/5
+Date: 2013
+Genre: Rap
+Disc: 2/2
+mtime: 1390722785
+song_end
+song_begin: 05. Wicked Ways.mp3
+Time: 391
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Wicked Ways
+Album: The Marshall Mathers LP2
+Track: 5/5
+Date: 2013
+Genre: Rap
+Disc: 2/2
+mtime: 1390722783
+song_end
+end: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2
+end: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]
+directory: Future - Pluto {2012-Album}
+mtime: 1358136773
+begin: Future - Pluto {2012-Album}
+song_begin: 01 The Future Is now.mp3
+Time: 65
+Artist: Future
+AlbumArtist: Future
+Title: The Future Is Now (Feat. Big Rube)
+Album: Pluto
+Track: 1/15
+Date: 2012
+Genre: Rap
+mtime: 1358066417
+song_end
+song_begin: 02 Parachute.mp3
+Time: 250
+Artist: Future
+AlbumArtist: Future
+Title: Parachute (Feat. R. Kelly)
+Album: Pluto
+Track: 2/15
+Date: 2012
+Genre: Rap
+mtime: 1358066480
+song_end
+song_begin: 03 Straight Up.mp3
+Time: 178
+Artist: Future
+AlbumArtist: Future
+Title: Straight Up
+Album: Pluto
+Track: 3/15
+Date: 2012
+Genre: Rap
+mtime: 1358066485
+song_end
+song_begin: 04 Astronaut Chick.mp3
+Time: 253
+Artist: Future
+AlbumArtist: Future
+Title: Astronaut Chick
+Album: Pluto
+Track: 4/15
+Date: 2012
+Genre: Rap
+mtime: 1358066504
+song_end
+song_begin: 05 Magix (Remix).mp3
+Time: 212
+Artist: Future
+AlbumArtist: Future
+Title: Magic (Remix) (Feat. T.I.)
+Album: Pluto
+Track: 5/15
+Date: 2012
+Genre: Rap
+mtime: 1358066497
+song_end
+song_begin: 06 Im Trippin.mp3
+Time: 281
+Artist: Future
+AlbumArtist: Future
+Title: Im Trippin
+Album: Pluto
+Track: 6/15
+Date: 2012
+Genre: Rap
+mtime: 1358066528
+song_end
+song_begin: 07 Truth Gonna Hurt You.mp3
+Time: 219
+Artist: Future
+AlbumArtist: Future
+Title: Truth Gonna Hurt You
+Album: Pluto
+Track: 7/15
+Date: 2012
+Genre: Rap
+mtime: 1358066543
+song_end
+song_begin: 08 Neva End.mp3
+Time: 262
+Artist: Future
+AlbumArtist: Future
+Title: Neva End
+Album: Pluto
+Track: 8/15
+Date: 2012
+Genre: Rap
+mtime: 1358066485
+song_end
+song_begin: 09 Tony Montana (feat.Drake).mp3
+Time: 248
+Artist: Future
+AlbumArtist: Future
+Title: Tony Montana (Feat. Drake)
+Album: Pluto
+Track: 9/15
+Date: 2012
+Genre: Rap
+mtime: 1358066540
+song_end
+song_begin: 10 Permanant Scar.mp3
+Time: 246
+Artist: Future
+AlbumArtist: Future
+Title: Permanent Scar
+Album: Pluto
+Track: 10/15
+Date: 2012
+Genre: Rap
+mtime: 1358066502
+song_end
+song_begin: 11 Same Damn Time.mp3
+Time: 273
+Artist: Future
+AlbumArtist: Future
+Title: Same Damn Time
+Album: Pluto
+Track: 11/15
+Date: 2012
+Genre: Rap
+mtime: 1358066543
+song_end
+song_begin: 12 Long Live The Pimp.mp3
+Time: 209
+Artist: Future
+AlbumArtist: Future
+Title: Long Live The Pimp (Feat. Trae The Truth)
+Album: Pluto
+Track: 12/15
+Date: 2012
+Genre: Rap
+mtime: 1358066512
+song_end
+song_begin: 13 Homicide.mp3
+Time: 250
+Artist: Future
+AlbumArtist: Future
+Title: Homicide (Feat. Snoop Dogg)
+Album: Pluto
+Track: 13/15
+Date: 2012
+Genre: Rap
+mtime: 1358066450
+song_end
+song_begin: 14 Turn On The Lights.mp3
+Time: 249
+Artist: Future
+AlbumArtist: Future
+Title: Turn On The Lights
+Album: Pluto
+Track: 14/15
+Date: 2012
+Genre: Rap
+mtime: 1358066505
+song_end
+song_begin: 15 You Deserve It.mp3
+Time: 215
+Artist: Future
+AlbumArtist: Future
+Title: You Deserve It
+Album: Pluto
+Track: 15/15
+Date: 2012
+Genre: Rap
+mtime: 1358066497
+song_end
+end: Future - Pluto {2012-Album}
+directory: GodsRobots
+mtime: 1357709556
+begin: GodsRobots
+song_begin: Gods_Robots-Break_the_spell.wav
+Time: 206
+Artist: Gods Robots
+Title: Break the spell
+mtime: 1390184294
+song_end
+song_begin: Gods_Robots-Falling.wav
+Time: 228
+Artist: Gods Robots
+Title: Falling
+mtime: 1390184236
+song_end
+song_begin: Gods_Robots-Stormy_Weather.wav
+Time: 208
+Artist: Gods Robots
+Title: Stormy Weather
+mtime: 1390184253
+song_end
+song_begin: Gods_Robots-Strange_Old_Song.wav
+Time: 280
+Artist: Gods Robots
+Title: Strange Old Song
+mtime: 1390184268
+song_end
+end: GodsRobots
+directory: Jay-Z - Magna Carta Holy Grail [320kbps]-2013
+mtime: 1390202629
+begin: Jay-Z - Magna Carta Holy Grail [320kbps]-2013
+song_begin: 01.Holy Grail.mp3
+Time: 338
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Holy Grail
+Album: Magna Carta Holy Grail
+Track: 1
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202674
+song_end
+song_begin: 02.Picasso Baby.mp3
+Time: 246
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Picasso Baby
+Album: Magna Carta Holy Grail
+Track: 2
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202667
+song_end
+song_begin: 03.Tom Ford.mp3
+Time: 189
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Tom Ford
+Album: Magna Carta Holy Grail
+Track: 3
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202772
+song_end
+song_begin: 04.FuckWithMeYouKnowIGotIt.mp3
+Time: 243
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: FuckWithMeYouKnowIGotIt
+Album: Magna Carta Holy Grail
+Track: 4
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202719
+song_end
+song_begin: 05.Oceans.mp3
+Time: 238
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Oceans
+Album: Magna Carta Holy Grail
+Track: 5
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202763
+song_end
+song_begin: 06.F.U.T.W..mp3
+Time: 243
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: F.U.T.W.
+Album: Magna Carta Holy Grail
+Track: 6
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202772
+song_end
+song_begin: 07.Somewhere in America.mp3
+Time: 148
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Somewhere in America
+Album: Magna Carta Holy Grail
+Track: 7/16
+Date: 2013
+Genre: Hip Hop
+Composer: S. Carter, C. Hollis, C. Camper, M. Dean
+mtime: 1390202758
+song_end
+song_begin: 08.Crown.mp3
+Time: 274
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Crown
+Album: Magna Carta Holy Grail
+Track: 8/16
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202774
+song_end
+song_begin: 09.Heaven.mp3
+Time: 243
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Heaven
+Album: Magna Carta Holy Grail
+Track: 9
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202745
+song_end
+song_begin: 10.Versus.mp3
+Time: 52
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Versus
+Album: Magna Carta Holy Grail
+Track: 10
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202750
+song_end
+song_begin: 11.Part II (On The Run).mp3
+Time: 334
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Part II (On The Run)
+Album: Magna Carta Holy Grail
+Track: 11
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202774
+song_end
+song_begin: 12.Beach Is Better.mp3
+Time: 56
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Beach Is Better
+Album: Magna Carta Holy Grail
+Track: 12
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202761
+song_end
+song_begin: 13.BBC.mp3
+Time: 192
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: BBC
+Album: Magna Carta Holy Grail
+Track: 13
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202775
+song_end
+song_begin: 14.Jay Z Blue.mp3
+Time: 230
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Jay Z Blue
+Album: Magna Carta Holy Grail
+Track: 14
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202773
+song_end
+song_begin: 15.La Familia.mp3
+Time: 214
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: La Familia
+Album: Magna Carta Holy Grail
+Track: 15
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202776
+song_end
+song_begin: 16.Nickels And Dimes.mp3
+Time: 303
+Artist: Jay-Z
+AlbumArtist: Jay-Z
+Title: Nickels And Dimes
+Album: Magna Carta Holy Grail
+Track: 16
+Date: 2013
+Genre: Hip Hop
+mtime: 1390202740
+song_end
+end: Jay-Z - Magna Carta Holy Grail [320kbps]-2013
+directory: Kansas - Carry On Wayward Son - GoceC Ringtone
+mtime: 1354905174
+begin: Kansas - Carry On Wayward Son - GoceC Ringtone
+song_begin: Kansas - Carry On Wayward Son - GoceC Ringtone.mp3
+Time: 62
+Genre: Other
+mtime: 1322828555
+song_end
+end: Kansas - Carry On Wayward Son - GoceC Ringtone
+directory: Lady Gaga - ARTPOP (Deluxe Edition) [2013] 320
+mtime: 1390722714
+begin: Lady Gaga - ARTPOP (Deluxe Edition) [2013] 320
+song_begin: 05 Jewels n' Drugs (feat. T.I., Too Short and Twista).mp3
+Time: 228
+Artist: Lady GaGa
+Title: Jewels n' Drugs (feat. T.I., Too Short and Twista)
+Album: ARTPOP (Deluxe Edition)
+Date: 2013
+Genre: Pop
+mtime: 1390722909
+song_end
+song_begin: 16 Applause (DJ White Shadow Electrotech Remix).mp3
+Time: 349
+Artist: Lady GaGa
+Title: Applause (DJ White Shadow Electrotech Remix)
+Album: ARTPOP (Deluxe Edition)
+Date: 2013
+Genre: Pop
+mtime: 1390722909
+song_end
+song_begin: 18 Applause (Empire of the Sun Remix).mp3
+Time: 248
+Artist: Lady GaGa
+Title: Applause (Empire of the Sun Remix)
+Album: ARTPOP (Deluxe Edition)
+Date: 2013
+Genre: Pop
+mtime: 1390722876
+song_end
+song_begin: 01 Aura.mp3
+Time: 236
+Artist: Lady GaGa
+Title: Aura
+Album: ARTPOP (Deluxe Edition)
+Track: 1
+Date: 2013
+Genre: Pop
+mtime: 1390722892
+song_end
+song_begin: 02 Venus.mp3
+Time: 234
+Artist: Lady GaGa
+Title: Venus
+Album: ARTPOP (Deluxe Edition)
+Track: 2
+Date: 2013
+Genre: Pop
+mtime: 1390722884
+song_end
+song_begin: 03 G.U.Y..mp3
+Time: 233
+Artist: Lady GaGa
+Title: G.U.Y
+Album: ARTPOP (Deluxe Edition)
+Track: 3
+Date: 2013
+Genre: Pop
+mtime: 1390722908
+song_end
+song_begin: 04 Sexxx Dreams.mp3
+Time: 215
+Artist: Lady GaGa
+Title: Sexxx Dreams
+Album: ARTPOP (Deluxe Edition)
+Track: 4
+Date: 2013
+Genre: Pop
+mtime: 1390722903
+song_end
+song_begin: 06 Manicure.mp3
+Time: 200
+Artist: Lady GaGa
+Title: Manicure
+Album: ARTPOP (Deluxe Edition)
+Track: 6
+Date: 2013
+Genre: Pop
+mtime: 1390722910
+song_end
+song_begin: 07 Do What U Want (feat. R. Kelly).mp3
+Time: 227
+Artist: Lady GaGa
+Title: Do What U Want (feat. R. Kelly)
+Album: ARTPOP (Deluxe Edition)
+Track: 7
+Date: 2013
+Genre: Pop
+mtime: 1390722910
+song_end
+song_begin: 08 Artpop.mp3
+Time: 248
+Artist: Lady GaGa
+Title: Artpop
+Album: ARTPOP (Deluxe Edition)
+Track: 8
+Date: 2013
+Genre: Pop
+mtime: 1390722890
+song_end
+song_begin: 09 Swine.mp3
+Time: 269
+Artist: Lady GaGa
+Title: Swine
+Album: ARTPOP (Deluxe Edition)
+Track: 9
+Date: 2013
+Genre: Pop
+mtime: 1390722911
+song_end
+song_begin: 10 Donatella.mp3
+Time: 266
+Artist: Lady GaGa
+Title: Donatella
+Album: ARTPOP (Deluxe Edition)
+Track: 10
+Date: 2013
+Genre: Pop
+mtime: 1390722912
+song_end
+song_begin: 11 Fashion!.mp3
+Time: 240
+Artist: Lady GaGa
+Title: Fashion!
+Album: ARTPOP (Deluxe Edition)
+Track: 11
+Date: 2013
+Genre: Pop
+mtime: 1390722826
+song_end
+song_begin: 12 Mary Jane Holland.mp3
+Time: 278
+Artist: Lady GaGa
+Title: Mary Jane Holland
+Album: ARTPOP (Deluxe Edition)
+Track: 12
+Date: 2013
+Genre: Pop
+mtime: 1390722850
+song_end
+song_begin: 13 Dope.mp3
+Time: 222
+Artist: Lady GaGa
+Title: Dope
+Album: ARTPOP (Deluxe Edition)
+Track: 13
+Date: 2013
+Genre: Pop
+mtime: 1390722820
+song_end
+song_begin: 14 Gypsy.mp3
+Time: 249
+Artist: Lady GaGa
+Title: Gypsy
+Album: ARTPOP (Deluxe Edition)
+Track: 14
+Date: 2013
+Genre: Pop
+mtime: 1390722870
+song_end
+song_begin: 15 Applause.mp3
+Time: 214
+Artist: Lady GaGa
+Title: Applause
+Album: ARTPOP (Deluxe Edition)
+Track: 15
+Date: 2013
+Genre: Pop
+mtime: 1390722825
+song_end
+song_begin: 17 Applause (Viceroy Remix).mp3
+Time: 268
+Artist: Lady GaGa
+Title: Applause (Viceroy Remix)
+Album: ARTPOP (Deluxe Edition)
+Track: 17
+Date: 2013
+Genre: Pop
+mtime: 1390722909
+song_end
+playlist_begin: 00 Lady Gaga - Artpop (Deluxe Edition) [2013].m3u
+mtime: 1390722845
+playlist_end
+end: Lady Gaga - ARTPOP (Deluxe Edition) [2013] 320
+directory: Lorde - Pure Heroine [2013] 320
+mtime: 1390081374
+begin: Lorde - Pure Heroine [2013] 320
+directory: Pure Heroine @ 320
+mtime: 1390081377
+begin: Lorde - Pure Heroine [2013] 320/Pure Heroine @ 320
+song_begin: 01 Tennis Court.mp3
+Time: 199
+Artist: Lorde
+AlbumArtist: Lorde
+Title: Tennis Court
+Album: Pure Heroine
+Track: 1/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021879
+song_end
+song_begin: 02 400 Lux.mp3
+Time: 234
+Artist: Lorde
+AlbumArtist: Lorde
+Title: 400 Lux
+Album: Pure Heroine
+Track: 2/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021872
+song_end
+song_begin: 03 Royals.mp3
+Time: 190
+Artist: Lorde
+AlbumArtist: Lorde
+Title: Royals
+Album: Pure Heroine
+Track: 3/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021878
+song_end
+song_begin: 04 Ribs.mp3
+Time: 258
+Artist: Lorde
+AlbumArtist: Lorde
+Title: Ribs
+Album: Pure Heroine
+Track: 4/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021878
+song_end
+song_begin: 05 Buzzcut Season.mp3
+Time: 246
+Artist: Lorde
+AlbumArtist: Lorde
+Title: Buzzcut Season
+Album: Pure Heroine
+Track: 5/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021873
+song_end
+song_begin: 06 Team.mp3
+Time: 193
+Artist: Lorde
+AlbumArtist: Lorde
+Title: Team
+Album: Pure Heroine
+Track: 6/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021873
+song_end
+song_begin: 07 Glory and Gore.mp3
+Time: 210
+Artist: Lorde
+AlbumArtist: Lorde
+Title: Glory and Gore
+Album: Pure Heroine
+Track: 7/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021879
+song_end
+song_begin: 08 Still Sane.mp3
+Time: 188
+Artist: Lorde
+AlbumArtist: Lorde
+Title: Still Sane
+Album: Pure Heroine
+Track: 8/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021874
+song_end
+song_begin: 09 White Teeth Teens.mp3
+Time: 216
+Artist: Lorde
+AlbumArtist: Lorde
+Title: White Teeth Teens
+Album: Pure Heroine
+Track: 9/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021878
+song_end
+song_begin: 10 A World Alone.mp3
+Time: 294
+Artist: Lorde
+AlbumArtist: Lorde
+Title: A World Alone
+Album: Pure Heroine
+Track: 10/10
+Date: 2013
+Genre: Indie Pop
+Composer: Ella Yelich O'Connor, Joel Little
+Disc: 1/1
+mtime: 1390021872
+song_end
+end: Lorde - Pure Heroine [2013] 320/Pure Heroine @ 320
+end: Lorde - Pure Heroine [2013] 320
+directory: Night Visions
+mtime: 1390081382
+begin: Night Visions
+song_begin: 01 Radioactive.mp3
+Time: 187
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Radioactive
+Album: Night Visions
+Track: 1/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon, Ben McKee, Alex Da Kid & Josh Mosser
+Disc: 1/1
+mtime: 1358892871
+song_end
+song_begin: 02 Tiptoe.mp3
+Time: 194
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Tiptoe
+Album: Night Visions
+Track: 2/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892874
+song_end
+song_begin: 03 It's Time.mp3
+Time: 240
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: It's Time
+Album: Night Visions
+Track: 3/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892869
+song_end
+song_begin: 04 Demons.mp3
+Time: 178
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Demons
+Album: Night Visions
+Track: 4/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon, Ben McKee, Alex Da Kid & Josh Mosser
+Disc: 1/1
+mtime: 1358892892
+song_end
+song_begin: 05 On Top of the World.mp3
+Time: 192
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: On Top of the World
+Album: Night Visions
+Track: 5/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon, Ben McKee & Alex Da Kid
+Disc: 1/1
+mtime: 1358892878
+song_end
+song_begin: 06 Amsterdam.mp3
+Time: 242
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Amsterdam
+Album: Night Visions
+Track: 6/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892883
+song_end
+song_begin: 07 Hear Me.mp3
+Time: 235
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Hear Me
+Album: Night Visions
+Track: 7/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892879
+song_end
+song_begin: 08 Every Night.mp3
+Time: 217
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Every Night
+Album: Night Visions
+Track: 8/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892883
+song_end
+song_begin: 09 Bleeding Out.mp3
+Time: 223
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Bleeding Out
+Album: Night Visions
+Track: 9/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon, Ben McKee, Alex Da Kid & Josh Mosser
+Disc: 1/1
+mtime: 1358892880
+song_end
+song_begin: 10 Underdog.mp3
+Time: 209
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Underdog
+Album: Night Visions
+Track: 10/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892861
+song_end
+song_begin: 11 Nothing Left to Say _ Rocks.mp3
+Time: 540
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Nothing Left to Say / Rocks
+Album: Night Visions
+Track: 11/13
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1358892884
+song_end
+song_begin: 12 Working Man.mp3
+Time: 236
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Working Man
+Album: Night Visions
+Track: 12/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892884
+song_end
+song_begin: 13 Fallen.mp3
+Time: 179
+Artist: Imagine Dragons
+AlbumArtist: Imagine Dragons
+Title: Fallen
+Album: Night Visions
+Track: 13/13
+Date: 2012
+Genre: Alternative
+Composer: Dan Reynolds, Wayne Sermon & Ben McKee
+Disc: 1/1
+mtime: 1358892884
+song_end
+end: Night Visions
+directory: Nirvana - Heart Shaped Box (1st Edition Single) (1993)
+mtime: 1354905180
+begin: Nirvana - Heart Shaped Box (1st Edition Single) (1993)
+song_begin: Nirvana-Heart-Shaped Box (LP Version).mp3
+Time: 281
+Artist: Nirvana
+Title: Heart-Shaped Box (LP Version)
+Album: Heart-Shaped Box (1st Edition Single)
+Track: 1
+Date: 1993
+Genre: Grunge
+mtime: 1322829584
+song_end
+song_begin: Nirvana-Milk It (LP Version).mp3
+Time: 234
+Artist: Nirvana
+Title: Milk It (LP Version)
+Album: Heart-Shaped Box (1st Edition Single)
+Track: 2
+Date: 1993
+Genre: Grunge
+mtime: 1322829584
+song_end
+song_begin: Nirvana-Marigold.mp3
+Time: 154
+Artist: Nirvana
+Title: Marigold
+Album: Heart-Shaped Box (1st Edition Single)
+Track: 3
+Date: 1993
+Genre: Grunge
+mtime: 1322829582
+song_end
+end: Nirvana - Heart Shaped Box (1st Edition Single) (1993)
+directory: Norah Jones - The Greatest Hits [mp3-192-2008]
+mtime: 1354905185
+begin: Norah Jones - The Greatest Hits [mp3-192-2008]
+song_begin: 01 In The Morning.mp3
+Time: 247
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: In the Morning
+Album: The Greatest Hits
+Track: 1
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 02 Don't Know Why.mp3
+Time: 186
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: Don't Know Why
+Album: The Greatest Hits
+Track: 2
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 03 New York City.mp3
+Time: 307
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: New York City
+Album: The Greatest Hits
+Track: 3
+Date: 2008
+mtime: 1322032038
+song_end
+song_begin: 04 The Long Way Home.mp3
+Time: 193
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: The Long Way Home
+Album: The Greatest Hits
+Track: 4
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 05 I'll Be Your Baby Tonight.mp3
+Time: 198
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: I'll Be Your Baby Tonight
+Album: The Greatest Hits
+Track: 5
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 06 Love Me Tender (Princess Diaries 2 Ost).mp3
+Time: 176
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: Love me tender (Princess Diaries 2 OST)
+Album: The Greatest Hits
+Track: 6
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 07 Tennesee Waltz.mp3
+Time: 263
+Artist: NORAH JONES
+AlbumArtist: Norah Jones & Joel Harrison
+Title: Tennesee Waltz
+Album: The Greatest Hits
+Track: 7
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 08 Come Away With Me.mp3
+Time: 186
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: Come Away With Me
+Album: The Greatest Hits
+Track: 8
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 09 Thinking About You.mp3
+Time: 201
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: Thinking About You
+Album: The Greatest Hits
+Track: 9
+Date: 2008-01-30
+mtime: 1322031919
+song_end
+song_begin: 10 Sunrise.mp3
+Time: 200
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: Sunrise
+Album: The Greatest Hits
+Track: 10
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 11 Lonestar.mp3
+Time: 186
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: Lonestar
+Album: The Greatest Hits
+Track: 11
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 12 Turn Me On.mp3
+Time: 155
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: Turn Me On
+Album: The Greatest Hits
+Track: 12
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 13 More Than This.mp3
+Time: 251
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: More Than This
+Album: The Greatest Hits
+Track: 13
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 14 I've Got To See You Again.mp3
+Time: 256
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: I've Got To See You Again
+Album: The Greatest Hits
+Track: 14
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 15 Those Sweet Words.mp3
+Time: 202
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: Those Sweet Words
+Album: The Greatest Hits
+Track: 15
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 16 Carnival Town.mp3
+Time: 192
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: Carnival Town
+Album: The Greatest Hits
+Track: 16
+Date: 2008
+mtime: 1322031919
+song_end
+song_begin: 17 Sleepless Nights.mp3
+Time: 255
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: Sleepless Nights
+Album: The Greatest Hits
+Track: 17
+Date: 2008
+mtime: 1322031920
+song_end
+song_begin: 18 Cold Cold Heart.mp3
+Time: 219
+Artist: NORAH JONES
+AlbumArtist: NORAH JONES
+Title: Cold Cold Heart
+Album: The Greatest Hits
+Track: 18
+Date: 2008
+mtime: 1322031920
+song_end
+song_begin: 19 The Story.mp3
+Time: 235
+Artist: NORAH JONES
+AlbumArtist: Norah Jones
+Title: The Story
+Album: The Greatest Hits
+Track: 19
+Date: 2008
+mtime: 1322031920
+song_end
+end: Norah Jones - The Greatest Hits [mp3-192-2008]
+directory: OceanLab - Sirens of the Sea
+mtime: 1390081387
+begin: OceanLab - Sirens of the Sea
+song_begin: 01 Just listen.mp3
+Time: 230
+Artist: OceanLab
+Title: Just listen
+Album: Sirens of the Sea
+Track: 1/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891785
+song_end
+song_begin: 02 Sirens Of The sea.mp3
+Time: 357
+Artist: OceanLab
+Title: Sirens Of The sea
+Album: Sirens of the Sea
+Track: 2/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891769
+song_end
+song_begin: 03 If I Could Fly.mp3
+Time: 313
+Artist: OceanLab
+Title: If I Could Fly
+Album: Sirens of the Sea
+Track: 3/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891771
+song_end
+song_begin: 04 Breaking Ties.mp3
+Time: 315
+Artist: OceanLab
+Title: Breaking Ties
+Album: Sirens of the Sea
+Track: 4/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891768
+song_end
+song_begin: 05 Miracle.mp3
+Time: 404
+Artist: OceanLab
+Title: Miracle
+Album: Sirens of the Sea
+Track: 5/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891784
+song_end
+song_begin: 06 Come Home.mp3
+Time: 274
+Artist: OceanLab
+Title: Come Home
+Album: Sirens of the Sea
+Track: 6/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891763
+song_end
+song_begin: 07 On A Good day.mp3
+Time: 357
+Artist: OceanLab
+Title: On A Good day
+Album: Sirens of the Sea
+Track: 7/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891763
+song_end
+song_begin: 08 Ashes.mp3
+Time: 391
+Artist: OceanLab
+Title: Ashes
+Album: Sirens of the Sea
+Track: 8/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891769
+song_end
+song_begin: 09 I Am What I Am.mp3
+Time: 286
+Artist: OceanLab
+Title: I Am What I Am
+Album: Sirens of the Sea
+Track: 9/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891762
+song_end
+song_begin: 10 Lonely Girl.mp3
+Time: 332
+Artist: OceanLab
+Title: Lonely Girl
+Album: Sirens of the Sea
+Track: 10/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891784
+song_end
+song_begin: 11 Secret.mp3
+Time: 321
+Artist: OceanLab
+Title: Secret
+Album: Sirens of the Sea
+Track: 11/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891767
+song_end
+song_begin: 12 On The Beach.mp3
+Time: 285
+Artist: OceanLab
+Title: On The Beach
+Album: Sirens of the Sea
+Track: 12/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891769
+song_end
+song_begin: 13 Breaking Ties(Flow Mix).mp3
+Time: 372
+Artist: OceanLab
+Title: Breaking Ties(Flow Mix)
+Album: Sirens of the Sea
+Track: 13/13
+Date: 2008
+Genre: Electronic
+mtime: 1358891767
+song_end
+end: OceanLab - Sirens of the Sea
+directory: PRISM (Deluxe)
+mtime: 1390081396
+begin: PRISM (Deluxe)
+song_begin: 01 Roar.mp3
+Time: 224
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Roar
+Album: PRISM (Deluxe)
+Track: 1/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022181
+song_end
+song_begin: 02 Legendary Lovers.mp3
+Time: 224
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Legendary Lovers
+Album: PRISM (Deluxe)
+Track: 2/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022181
+song_end
+song_begin: 03 Birthday.mp3
+Time: 215
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Birthday
+Album: PRISM (Deluxe)
+Track: 3/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022112
+song_end
+song_begin: 04 Walking On Air.mp3
+Time: 222
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Walking On Air
+Album: PRISM (Deluxe)
+Track: 4/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022182
+song_end
+song_begin: 05 Unconditionally.mp3
+Time: 229
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Unconditionally
+Album: PRISM (Deluxe)
+Track: 5/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022180
+song_end
+song_begin: 06 Dark Horse (feat. Juicy J).mp3
+Time: 216
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Dark Horse (feat. Juicy J)
+Album: PRISM (Deluxe)
+Track: 6/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022178
+song_end
+song_begin: 07 This Is How We Do.mp3
+Time: 204
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: This Is How We Do
+Album: PRISM (Deluxe)
+Track: 7/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022168
+song_end
+song_begin: 08 International Smile.mp3
+Time: 228
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: International Smile
+Album: PRISM (Deluxe)
+Track: 8/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022144
+song_end
+song_begin: 09 Ghost.mp3
+Time: 203
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Ghost
+Album: PRISM (Deluxe)
+Track: 9/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022110
+song_end
+song_begin: 10 Love Me.mp3
+Time: 233
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Love Me
+Album: PRISM (Deluxe)
+Track: 10/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022168
+song_end
+song_begin: 11 This Moment.mp3
+Time: 227
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: This Moment
+Album: PRISM (Deluxe)
+Track: 11/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022176
+song_end
+song_begin: 12 Double Rainbow.mp3
+Time: 232
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Double Rainbow
+Album: PRISM (Deluxe)
+Track: 12/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022156
+song_end
+song_begin: 13 By the Grace of God.mp3
+Time: 268
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: By the Grace of God
+Album: PRISM (Deluxe)
+Track: 13/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022143
+song_end
+song_begin: 14 Spiritual.mp3
+Time: 276
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Spiritual
+Album: PRISM (Deluxe)
+Track: 14/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022180
+song_end
+song_begin: 15 It Takes Two.mp3
+Time: 235
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: It Takes Two
+Album: PRISM (Deluxe)
+Track: 15/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022144
+song_end
+song_begin: 16 Choose Your Battles.mp3
+Time: 267
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: Choose Your Battles
+Album: PRISM (Deluxe)
+Track: 16/16
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022175
+song_end
+end: PRISM (Deluxe)
+directory: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT
+mtime: 1390203046
+begin: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT
+directory: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT, CD1
+mtime: 1390203046
+begin: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT/Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT, CD1
+song_begin: 01 - Passenger - Things That Stop You Dreaming.mp3
+Time: 214
+Artist: Passenger
+Title: Things That Stop You Dreaming
+Album: All The Little Lights
+Track: 1/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203146
+song_end
+song_begin: 02 - Passenger - Let Her Go.mp3
+Time: 251
+Artist: Passenger
+Title: Let Her Go
+Album: All The Little Lights
+Track: 2/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203203
+song_end
+song_begin: 03 - Passenger - Staring At The Stars.mp3
+Time: 204
+Artist: Passenger
+Title: Staring At The Stars
+Album: All The Little Lights
+Track: 3/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203228
+song_end
+song_begin: 04 - Passenger - All The Little Lights.mp3
+Time: 235
+Artist: Passenger
+Title: All The Little Lights
+Album: All The Little Lights
+Track: 4/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203229
+song_end
+song_begin: 05 - Passenger - The Wrong Direction.mp3
+Time: 220
+Artist: Passenger
+Title: The Wrong Direction
+Album: All The Little Lights
+Track: 5/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203193
+song_end
+song_begin: 06 - Passenger - Circles.mp3
+Time: 190
+Artist: Passenger
+Title: Circles
+Album: All The Little Lights
+Track: 6/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203250
+song_end
+song_begin: 07 - Passenger - Keep On Walking.mp3
+Time: 247
+Artist: Passenger
+Title: Keep On Walking
+Album: All The Little Lights
+Track: 7/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203240
+song_end
+song_begin: 08 - Passenger - Patient Love.mp3
+Time: 188
+Artist: Passenger
+Title: Patient Love
+Album: All The Little Lights
+Track: 8/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203250
+song_end
+song_begin: 09 - Passenger - Life's For The Living.mp3
+Time: 273
+Artist: Passenger
+Title: Life's For The Living
+Album: All The Little Lights
+Track: 9/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203252
+song_end
+song_begin: 10 - Passenger - Holes.mp3
+Time: 211
+Artist: Passenger
+Title: Holes
+Album: All The Little Lights
+Track: 10/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203160
+song_end
+song_begin: 11 - Passenger - Feather On The Clyde.mp3
+Time: 242
+Artist: Passenger
+Title: Feather On The Clyde
+Album: All The Little Lights
+Track: 11/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203148
+song_end
+song_begin: 12 - Passenger - I Hate (Live From The Borderline, London).mp3
+Time: 211
+Artist: Passenger
+Title: I Hate (Live Rom The Borderline, London)
+Album: All The Little Lights
+Track: 12/12
+Date: 2012
+Genre: Pop
+Disc: 1/2
+mtime: 1390203157
+song_end
+playlist_begin: Passenger - All The Little Lights.m3u
+mtime: 1390203132
+playlist_end
+end: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT/Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT, CD1
+directory: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT, CD2 Bonus Acoustic)
+mtime: 1390203046
+begin: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT/Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT, CD2 Bonus Acoustic)
+song_begin: 01 - Passenger - Let Her Go (Acoustic).mp3
+Time: 267
+Artist: Passenger
+AlbumArtist: Passenger
+Title: Let Her Go (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 01
+Date: 2012
+Genre: Pop
+mtime: 1390203250
+song_end
+song_begin: 02 - Passenger - Staring At THe Stars (Acoustic).mp3
+Time: 164
+Artist: Passenger
+AlbumArtist: Passenger
+Title: Staring At THe Stars (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 02
+Date: 2012
+Genre: Pop
+mtime: 1390203251
+song_end
+song_begin: 03 - Passenger - All The Little Lights (Acoustic).mp3
+Time: 199
+Artist: Passenger
+AlbumArtist: Passenger
+Title: All The Little Lights (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 03
+Date: 2012
+Genre: Pop
+mtime: 1390203252
+song_end
+song_begin: 04 - Passenger - Circles (Acoustic).mp3
+Time: 188
+Artist: Passenger
+AlbumArtist: Passenger
+Title: Circles (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 04
+Date: 2012
+Genre: Pop
+mtime: 1390203222
+song_end
+song_begin: 05 - Passenger - Keep On Walking (Acoustic).mp3
+Time: 235
+Artist: Passenger
+AlbumArtist: Passenger
+Title: Keep On Walking (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 05
+Date: 2012
+Genre: Pop
+mtime: 1390203250
+song_end
+song_begin: 06 - Passenger - Patient Love (Acoustic).mp3
+Time: 199
+Artist: Passenger
+AlbumArtist: Passenger
+Title: Patient Love (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 06
+Date: 2012
+Genre: Pop
+mtime: 1390203248
+song_end
+song_begin: 07 - Passenger - Life's For The Living (Acoustic).mp3
+Time: 269
+Artist: Passenger
+AlbumArtist: Passenger
+Title: Life's For The Living (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 07
+Date: 2012
+Genre: Pop
+mtime: 1390203250
+song_end
+song_begin: 08 - Passenger - Feather On The Clyde (Acoustic).mp3
+Time: 226
+Artist: Passenger
+AlbumArtist: Passenger
+Title: Feather On The Clyde (Acoustic)
+Album: All The Little Lights (Bonus CD)
+Track: 08
+Date: 2012
+Genre: Pop
+mtime: 1390203241
+song_end
+playlist_begin: Passenger - All The Little Lights (Acoustic).m3u
+mtime: 1390203233
+playlist_end
+end: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT/Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT, CD2 Bonus Acoustic)
+end: Passenger-All The Little Lights (2CD)(2012) 320Kbit(mp3) DMT
+directory: Pentatonix - PTX, Vol. 1 (2012)
+mtime: 1390081389
+begin: Pentatonix - PTX, Vol. 1 (2012)
+song_begin: 1 - 01. Starships.mp3
+Time: 182
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Starships
+Album: PTX, Vol. 1
+Track: 01/07
+Date: 2012
+Disc: 1/1
+mtime: 1390022422
+song_end
+song_begin: 1 - 02. The Baddest Girl.mp3
+Time: 230
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: The Baddest Girl
+Album: PTX, Vol. 1
+Track: 02/07
+Date: 2012
+Disc: 1/1
+mtime: 1390022400
+song_end
+song_begin: 1 - 03. Somebody That I Used to Know.mp3
+Time: 199
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Somebody That I Used to Know
+Album: PTX, Vol. 1
+Track: 03/07
+Date: 2012
+Disc: 1/1
+mtime: 1390022427
+song_end
+song_begin: 1 - 04. Aha!.mp3
+Time: 158
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Aha!
+Album: PTX, Vol. 1
+Track: 04/07
+Date: 2012
+Disc: 1/1
+mtime: 1390022404
+song_end
+song_begin: 1 - 05. Show You How to Love.mp3
+Time: 234
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Show You How to Love
+Album: PTX, Vol. 1
+Track: 05/07
+Date: 2012
+Disc: 1/1
+mtime: 1390022427
+song_end
+song_begin: 1 - 06. Love You Long Time.mp3
+Time: 185
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Love You Long Time
+Album: PTX, Vol. 1
+Track: 06/07
+Date: 2012
+Disc: 1/1
+mtime: 1390022427
+song_end
+song_begin: 1 - 07. We Are Young.mp3
+Time: 187
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: We Are Young
+Album: PTX, Vol. 1
+Track: 07/07
+Date: 2012
+Disc: 1/1
+mtime: 1390022421
+song_end
+end: Pentatonix - PTX, Vol. 1 (2012)
+directory: Pentatonix - PTX, Vol. 2 (2013)
+mtime: 1390081289
+begin: Pentatonix - PTX, Vol. 2 (2013)
+song_begin: 1 - 01. Can't Hold Us.mp3
+Time: 198
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Can't Hold Us
+Album: PTX, Vol. 2
+Track: 01/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022393
+song_end
+song_begin: 1 - 02. Natural Disaster.mp3
+Time: 211
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Natural Disaster
+Album: PTX, Vol. 2
+Track: 02/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022380
+song_end
+song_begin: 1 - 03. Love Again.mp3
+Time: 199
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Love Again
+Album: PTX, Vol. 2
+Track: 03/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022402
+song_end
+song_begin: 1 - 04. Valentine.mp3
+Time: 157
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Valentine
+Album: PTX, Vol. 2
+Track: 04/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022398
+song_end
+song_begin: 1 - 05. Hey Momma,Hit The Road Jack.mp3
+Time: 181
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Hey Momma/Hit The Road Jack
+Album: PTX, Vol. 2
+Track: 05/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022380
+song_end
+song_begin: 1 - 06. I Need Your Love.mp3
+Time: 173
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: I Need Your Love
+Album: PTX, Vol. 2
+Track: 06/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022402
+song_end
+song_begin: 1 - 07. Run To You.mp3
+Time: 266
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Run To You
+Album: PTX, Vol. 2
+Track: 07/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022386
+song_end
+song_begin: 1 - 08. Daft Punk.mp3
+Time: 245
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Daft Punk
+Album: PTX, Vol. 2
+Track: 08/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022393
+song_end
+song_begin: 1 - 09. Save the World , Don't You Worry Child (Bonus Track).mp3
+Time: 228
+Artist: Pentatonix
+AlbumArtist: Pentatonix
+Title: Save the World / Don't You Worry Child (Bonus Track)
+Album: PTX, Vol. 2
+Track: 09/09
+Date: 2013
+Genre: Pop
+Disc: 1/1
+mtime: 1390022399
+song_end
+end: Pentatonix - PTX, Vol. 2 (2013)
+directory: R. Kelly - Black Panties [Deluxe Edition @ 320] 2013
+mtime: 1390722461
+begin: R. Kelly - Black Panties [Deluxe Edition @ 320] 2013
+song_begin: 01. Legs Shakin’ (feat. Ludacris).mp3
+Time: 269
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Legs Shakin’ (feat. Ludacris)
+Album: Black Panties (Deluxe Version)
+Track: 1/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722720
+song_end
+song_begin: 02. Cookies.mp3
+Time: 226
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Cookies
+Album: Black Panties (Deluxe Version)
+Track: 2/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722708
+song_end
+song_begin: 03. Throw This Money On You.mp3
+Time: 223
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Throw This Money On You
+Album: Black Panties (Deluxe Version)
+Track: 3/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722579
+song_end
+song_begin: 04. Prelude.mp3
+Time: 195
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Prelude
+Album: Black Panties (Deluxe Version)
+Track: 4/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722703
+song_end
+song_begin: 05. Marry the Pussy.mp3
+Time: 258
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Marry the P***y
+Album: Black Panties (Deluxe Version)
+Track: 5/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722728
+song_end
+song_begin: 06. You Deserve Better.mp3
+Time: 234
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: You Deserve Better
+Album: Black Panties (Deluxe Version)
+Track: 6/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722727
+song_end
+song_begin: 07. Genius.mp3
+Time: 240
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Genius
+Album: Black Panties (Deluxe Version)
+Track: 7/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722715
+song_end
+song_begin: 08. All the Way (feat. Kelly Rowland).mp3
+Time: 233
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: All the Way (feat. Kelly Rowland)
+Album: Black Panties (Deluxe Version)
+Track: 8/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722712
+song_end
+song_begin: 09. My Story (feat. 2 Chainz).mp3
+Time: 269
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: My Story (feat. 2 Chainz)
+Album: Black Panties (Deluxe Version)
+Track: 9/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722727
+song_end
+song_begin: 10. Right Back.mp3
+Time: 215
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Right Back
+Album: Black Panties (Deluxe Version)
+Track: 10/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722728
+song_end
+song_begin: 11. Spend That (feat. Jeezy).mp3
+Time: 228
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Spend That (feat. Jeezy)
+Album: Black Panties (Deluxe Version)
+Track: 11/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722728
+song_end
+song_begin: 12. Crazy Sex.mp3
+Time: 161
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Crazy Sex
+Album: Black Panties (Deluxe Version)
+Track: 12/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722730
+song_end
+song_begin: 13. Shut Up.mp3
+Time: 248
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Shut Up
+Album: Black Panties (Deluxe Version)
+Track: 13/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722729
+song_end
+song_begin: 14. Tear It Up (feat. Future).mp3
+Time: 226
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Tear It Up (feat. Future)
+Album: Black Panties (Deluxe Version)
+Track: 14/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722700
+song_end
+song_begin: 15. Show Ya Pussy (feat. Migos & Juicy J).mp3
+Time: 222
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Show Ya P***y (feat. Migos & Juicy J)
+Album: Black Panties (Deluxe Version)
+Track: 15/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722708
+song_end
+song_begin: 16. Physical.mp3
+Time: 260
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Physical
+Album: Black Panties (Deluxe Version)
+Track: 16/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722727
+song_end
+song_begin: 17. Every Position.mp3
+Time: 209
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Every Position
+Album: Black Panties (Deluxe Version)
+Track: 17/16
+Date: 2013
+Genre: R&B/Soul
+Disc: 1/1
+mtime: 1390722726
+song_end
+song_begin: 18. Lights On.mp3
+Time: 229
+Artist: R. Kelly
+AlbumArtist: R. Kelly
+Title: Lights On
+Album: Black Panties (Deluxe Version)
+Track: 18/16
+Date: 2013
+Genre: R&B/Soul
+Performer: www.viperial.com
+Performer: www.viperial.com
+Disc: 1/1
+mtime: 1390722711
+song_end
+end: R. Kelly - Black Panties [Deluxe Edition @ 320] 2013
+directory: Tennis - Young And Old (2012) FLAC
+mtime: 1390096137
+begin: Tennis - Young And Old (2012) FLAC
+song_begin: 01 - It All Feels The Same.flac
+Time: 204
+Title: It All Feels The Same
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 1
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 02 - Origins.flac
+Time: 209
+Title: Origins
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 2
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 03 - My Better Self.flac
+Time: 225
+Title: My Better Self
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 3
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 04 - Traveling.flac
+Time: 182
+Title: Traveling
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 4
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 05 - Petition.flac
+Time: 192
+Title: Petition
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 5
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 06 - Robin.flac
+Time: 185
+Title: Robin
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 6
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 07 - High Road.flac
+Time: 184
+Title: High Road
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 7
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 08 - Dreaming.flac
+Time: 195
+Title: Dreaming
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 8
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 09 - Take Me To Heaven.flac
+Time: 206
+Title: Take Me To Heaven
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 9
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+song_begin: 10 - Never To Part.flac
+Time: 207
+Title: Never To Part
+Artist: Tennis
+Album: Young And Old
+Genre: Indie Rock
+Track: 10
+AlbumArtist: Tennis
+mtime: 1327342213
+song_end
+end: Tennis - Young And Old (2012) FLAC
+directory: The Lumineers - 2012 - The Lumineers FLAC
+mtime: 1391494374
+begin: The Lumineers - 2012 - The Lumineers FLAC
+song_begin: 01-Flowers In Your Hair.flac
+Time: 111
+Title: Flowers In Your Hair
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 1
+Date: 2012
+mtime: 1391494541
+song_end
+song_begin: 02-Classy Girls.flac
+Time: 166
+Title: Classy Girls
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 2
+Date: 2012
+mtime: 1391494536
+song_end
+song_begin: 03-Submarines.flac
+Time: 164
+Title: Submarines
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 3
+Date: 2012
+mtime: 1391494553
+song_end
+song_begin: 04-Dead Sea.flac
+Time: 248
+Title: Dead Sea
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 4
+Date: 2012
+mtime: 1391494555
+song_end
+song_begin: 05-Ho Hey.flac
+Time: 164
+Title: Ho Hey
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 5
+Date: 2012
+mtime: 1391494553
+song_end
+song_begin: 06-Slow It Down.flac
+Time: 307
+Title: Slow It Down
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 6
+Date: 2012
+mtime: 1391494538
+song_end
+song_begin: 07-Stubborn Love.flac
+Time: 279
+Title: Stubborn Love
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 7
+Date: 2012
+mtime: 1391494555
+song_end
+song_begin: 08-Big Parade.flac
+Time: 328
+Title: Big Parade
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 8
+Date: 2012
+mtime: 1391494555
+song_end
+song_begin: 09-Charlie Boy.flac
+Time: 262
+Title: Charlie Boy
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 9
+Date: 2012
+mtime: 1391494556
+song_end
+song_begin: 10-Flapper Girl.flac
+Time: 196
+Title: Flapper Girl
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 10
+Date: 2012
+mtime: 1391494554
+song_end
+song_begin: 11-Morning Song.flac
+Time: 319
+Title: Morning Song
+Artist: The Lumineers
+Album: The Lumineers
+Genre: Folk
+Track: 11
+Date: 2012
+mtime: 1391494555
+song_end
+playlist_begin: The Lumineers.cue
+mtime: 1391494524
+playlist_end
+end: The Lumineers - 2012 - The Lumineers FLAC
+directory: USA Billboard 100 2013
+mtime: 1390028917
+begin: USA Billboard 100 2013
+directory: 1 - The Music
+mtime: 1390198492
+begin: USA Billboard 100 2013/1 - The Music
+song_begin: 082 - Trouble Maker - Olly Murs ft. Flo Rider.mp3
+Time: 186
+Artist: Olly Murs ft. Flo Rider
+Title: Troublemaker
+Album: USA Billboard Year End Charts Hot 100 2013 [Bubanee]
+Track: 82
+Date: 2013
+Genre: Hit Single
+mtime: 1390029314
+song_end
+song_begin: 001 - Thrift Shop - Macklemore & Ryan Lewis ft. Wanz.mp3
+Time: 236
+Artist: Macklemore & Ryan Lewis ft. Wanz
+Title: Thrift Shop
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 1
+Date: 2013
+Genre: Hit Single
+mtime: 1390028999
+song_end
+song_begin: 002 - Blurred Lines - Robin Thicke.mp3
+Time: 263
+Artist: Robin Thicke
+Title: Blurred Lines
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 2
+Date: 2013
+Genre: Hit Single
+mtime: 1390029323
+song_end
+song_begin: 003 - Radioactive - Imagine Dragons.mp3
+Time: 188
+Artist: Imagine Dragons
+Title: Radioactive
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 3
+Date: 2013
+Genre: Hit Single
+mtime: 1390029286
+song_end
+song_begin: 004 - Harlem Shake - Baauer.mp3
+Time: 197
+Artist: Baauer
+Title: Harlem Shake
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 4
+Date: 2013
+Genre: Hit Single
+mtime: 1390029273
+song_end
+song_begin: 005 - Can't Hold Us - Macklemore & Ryan Lewis - ft. Ray Dalton.mp3
+Time: 258
+Artist: Macklemore & Ryan Lewis ft. Ray Dalton
+Title: Can't Hold Us
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 5
+Date: 2013
+Genre: Hit Single
+mtime: 1390029226
+song_end
+song_begin: 006 - Mirrors - Justin Timberlake.mp3
+Time: 485
+Artist: Justin Timberlake
+Title: Mirrors
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 6
+Date: 2013
+Genre: Hit Single
+mtime: 1390029519
+song_end
+song_begin: 007 - Just Give Me A Reason - P!nk ft Nate Ruess.mp3
+Time: 243
+Artist: P!nk ft. Nate Ruess
+Title: Just Give Me A Reason
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 7
+Date: 2013
+Genre: Hit Single
+mtime: 1390029468
+song_end
+song_begin: 008 - When I Was Your Man - Bruno Mars.mp3
+Time: 214
+Artist: Bruno Mars
+Title: When I Was Your Man
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 8
+Date: 2013
+Genre: Hit Single
+mtime: 1390029348
+song_end
+song_begin: 009 - Cruise - Florida Georgia Line ft. Nelly.mp3
+Time: 207
+Artist: Florida Georgia Line ft. Nelly
+Title: Cruise ft. Nelly
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 9
+Date: 2013
+Genre: Hit Single
+mtime: 1390029368
+song_end
+song_begin: 010 - Roar - Katy Perry.mp3
+Time: 223
+Artist: Katy Perry
+Title: Roar
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 10
+Date: 2013
+Genre: Hit Single
+mtime: 1390029354
+song_end
+song_begin: 011 - Locked Out Of Heaven - Bruno Mars.mp3
+Time: 234
+Artist: Bruno Mars
+Title: Locked Out Of Heaven
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 11
+Date: 2013
+Genre: Hit Single
+mtime: 1390028968
+song_end
+song_begin: 012 - Ho Hey - The Lumineers.mp3
+Time: 163
+Artist: The Lumineers
+Title: Ho Hey
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 12
+Date: 2013
+Genre: Hit Single
+mtime: 1390028967
+song_end
+song_begin: 013 - Stay - Rihanna ft. Mikky Ekko.mp3
+Time: 241
+Artist: Rihanna ft. Mikky Ekko
+Title: Stay
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 13
+Date: 2013
+Genre: Hit Single
+mtime: 1390028972
+song_end
+song_begin: 014 - Get Lucky - Daft Punk ft. Pharell Williams.mp3
+Time: 248
+Artist: Daft Punk ft. Pharrell Williams
+Title: Get Lucky
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 14
+Date: 2013
+Genre: Hit Single
+mtime: 1390029272
+song_end
+song_begin: 015 - Royals - Lorde.mp3
+Time: 192
+Artist: Lorde
+Title: Royals
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 15
+Date: 2013
+Genre: Hit Single
+mtime: 1390029248
+song_end
+song_begin: 016 - I Knew You Were In Trouble - Taylor Swift.mp3
+Time: 220
+Artist: Taylor Swift
+Title: I Knew You Were Trouble
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 16
+Date: 2013
+Genre: Hit Single
+mtime: 1390029372
+song_end
+song_begin: 017 - We Can't Stop - Miley Cyrus.mp3
+Time: 233
+Artist: Miley Cyrus
+Title: We Can't Stop
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 17
+Date: 2013
+Genre: Hit Single
+mtime: 1390029372
+song_end
+song_begin: 018 - Wrecking Ball - Miley Cyrus.mp3
+Time: 223
+Artist: Miley Cyrus
+Title: Wrecking Ball
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 18
+Date: 2013
+Genre: Hit Single
+mtime: 1390029397
+song_end
+song_begin: 019 - Wake Me Up - Avicii.mp3
+Time: 250
+Artist: Avicii
+Title: Wake Me Up
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 19
+Date: 2013
+Genre: Hit Single
+mtime: 1390029394
+song_end
+song_begin: 020 - Suit & Tie - Justin Timberlake feat. Jay Z.mp3
+Time: 331
+Artist: Justin Timberlake feat. Jay Z
+Title: Suit & Tie
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 20
+Date: 2013
+Genre: Hit Single
+mtime: 1390029390
+song_end
+song_begin: 021 - Cups (Pitch Perfects When I'm Gone) - Anna Kendrick.mp3
+Time: 77
+Artist: Anna Kendrick
+Title: Cups (Pitch Perfects When I'm Gone)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 21
+Date: 2013
+Genre: Hit Single
+mtime: 1390029400
+song_end
+song_begin: 022 - Holy Grail - Jay-Z ft. Justin Timberlake.mp3
+Time: 338
+Artist: Jay-Z ft. Justin Timberlake
+Title: Holy Grail
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 22
+Date: 2013
+Genre: Hit Single
+mtime: 1390029426
+song_end
+song_begin: 023 - Scream & Shout - Will.i.am & Brintney Spears.mp3
+Time: 284
+Artist: Will.I.Am ft. Britney Spears
+Title: Scream & Shout
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 23
+Date: 2013
+Genre: Hit Single
+mtime: 1390029420
+song_end
+song_begin: 024 - Clarity - Zedd ft. Foxes.mp3
+Time: 271
+Artist: Zedd ft. Foxes
+Title: Clarity
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 24
+Date: 2013
+Genre: Hit Single
+mtime: 1390029407
+song_end
+song_begin: 025 - Sail - Awolnation.mp3
+Time: 259
+Artist: AWOLNATION
+Title: Sail
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 25
+Date: 2013
+Genre: Hit Single
+mtime: 1390029431
+song_end
+song_begin: 026 - Don't You Worry Child - Swedish House Mafia ft. John Martin.mp3
+Time: 406
+Artist: Swedish House Mafia Feat John Martin
+Title: Don't You Worry Child
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 26
+Date: 2013
+Genre: Hit Single
+mtime: 1390029414
+song_end
+song_begin: 027 - Diamonds - Rihanna.mp3
+Time: 225
+Artist: Rihanna
+Title: Diamonds
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 27
+Date: 2013
+Genre: Hit Single
+mtime: 1390029419
+song_end
+song_begin: 028 - I Love It - Icona Pop ft. Charli XCX.mp3
+Time: 157
+Artist: Icona Pop ft. Charli XCX
+Title: I Love It
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 28
+Date: 2013
+Genre: Hit Single
+mtime: 1390029423
+song_end
+song_begin: 029 - Safe and Sound - Capital Cities.mp3
+Time: 193
+Artist: Capital Cities
+Title: Safe and Sound
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 29
+Date: 2013
+Genre: Hit Single
+mtime: 1390029446
+song_end
+song_begin: 030 - Treasure - Bruno Mars.mp3
+Time: 179
+Artist: Bruno Mars
+Title: Treasure
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 30
+Date: 2013
+Genre: Hit Single
+mtime: 1390029459
+song_end
+song_begin: 031 - The Way - Ariana Grande ft. Mac Miller.mp3
+Time: 226
+Artist: Ariana Grande ft. Mac Miller
+Title: The Way
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 31
+Date: 2013
+Genre: Hit Single
+mtime: 1390029461
+song_end
+song_begin: 032 - Started From The Bottom - Drake.mp3
+Time: 174
+Artist: Drake
+Title: Started From The Bottom
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 32
+Date: 2013
+Genre: Hit Single
+mtime: 1390029451
+song_end
+song_begin: 033 - Come & Get It - Selena Gomez.mp3
+Time: 232
+Artist: Selena Gomez
+Title: Come & Get It
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 33
+Date: 2013
+Genre: Hit Single
+mtime: 1390029462
+song_end
+song_begin: 034 - Hold On, We're Going Home - Drake ft. Majid Jordan.mp3
+Time: 227
+Artist: Drake
+Title: Hold On, We're Going Home
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 34
+Date: 2013
+Genre: Hit Single
+mtime: 1390029519
+song_end
+song_begin: 035 - Daylight - Maroon 5.mp3
+Time: 226
+Artist: Maroon 5
+Title: Daylight
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 35
+Date: 2013
+Genre: Hit Single
+mtime: 1390029229
+song_end
+song_begin: 036 - Feel This Moment - Pitbull ft. Christina Agruilera.mp3
+Time: 230
+Artist: Pitbull ft. Christina Aguilera
+Title: Feel This Moment
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 36
+Date: 2013
+Genre: Hit Single
+mtime: 1390029478
+song_end
+song_begin: 037 - Applause - Lady Gaga.mp3
+Time: 213
+Artist: Lady Gaga
+Title: Applause
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 37
+Date: 2013
+Genre: Hit Single
+mtime: 1390029518
+song_end
+song_begin: 038 - One More Night - Maroon 5.mp3
+Time: 220
+Artist: Maroon 5
+Title: One More Night
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 38
+Date: 2013
+Genre: Hit Single
+mtime: 1390029246
+song_end
+song_begin: 039 - Love me - Lil Wayne ft. Drake & Future.mp3
+Time: 255
+Artist: Lil Wayne ft. Drake & Future
+Title: Love me
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 39
+Date: 2013
+Genre: Hit Single
+mtime: 1390029518
+song_end
+song_begin: 040 - My Songs Know What You Did In The Dark (Light Em Up) - Fall Out Boy.mp3
+Time: 189
+Artist: Fall Out Boy
+Title: My Songs Know What You Did In The Dark (Light Em Up)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 40
+Date: 2013
+Genre: Hit Single
+mtime: 1390029519
+song_end
+song_begin: 041 - Fucking Problems - ASAP Rocky ft. Drake, 2 Chainz & Kendrick Lamar.mp3
+Time: 239
+Artist: Asap Rocky ft. Drake, 2 Chainz & Kendrick Lamar
+Title: Fucking Problems
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 41
+Date: 2013
+Genre: Hit Single
+mtime: 1390029507
+song_end
+song_begin: 042 - Beauty And A Beat - Justin Bieber ft. Nicki Minaj.mp3
+Time: 228
+Artist: Justin Bieber ft. Nicki Minaj
+Title: Beauty And A Beat
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 42
+Date: 2013
+Genre: Hit Single
+mtime: 1390029518
+song_end
+song_begin: 043 - Same Love - Macklemore & Ryan Lewis ft. Mary Lambert.mp3
+Time: 320
+Artist: Macklemore & Ryan Lewis ft. Mary Lambert
+Title: Same Love
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 43
+Date: 2013
+Genre: Hit Single
+mtime: 1390029269
+song_end
+song_begin: 044 - Sweet Nothing - Calvin Harris ft. Florence Welch.mp3
+Time: 216
+Artist: Calvin Harris feat. Florence Welch
+Title: Sweet Nothing
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 44
+Date: 2013
+Genre: Hit Single
+mtime: 1390029518
+song_end
+song_begin: 045 - Summertime Sadness (Cedric Gervais Vocal Down Mix) - Lana Del Rey.mp3
+Time: 415
+Artist: Lana Del Rey
+Title: Summertime Sadness (Cedric Gervais Vocal Down Mix)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 45
+Date: 2013
+Genre: Hit Single
+mtime: 1390029519
+song_end
+song_begin: 046 - Home - Phillip Phillips.mp3
+Time: 209
+Artist: Phillip Phillips
+Title: Home
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 46
+Date: 2013
+Genre: Hit Single
+mtime: 1390029520
+song_end
+song_begin: 047 - It's Time - Imagine Dragons.mp3
+Time: 240
+Artist: Imagine Dragons
+Title: It's Time
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 47
+Date: 2013
+Genre: Hit Single
+mtime: 1390029520
+song_end
+song_begin: 048 - Power Trip - J. Cole ft. Miguel.mp3
+Time: 240
+Artist: J Cole ft. Miguel
+Title: Power Trip
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 48
+Date: 2013
+Genre: Hit Single
+mtime: 1390029521
+song_end
+song_begin: 049 - Girl On Fire (Inferno) - Alicia Keys ft. Nicki Minaj.mp3
+Time: 271
+Artist: Alicia Keys ft. Nicki Minaj
+Title: Girl On Fire (Inferno Version)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 49
+Date: 2013
+Genre: Hit Single
+mtime: 1390029522
+song_end
+song_begin: 050 - Heart Attack - Demi Lovato.mp3
+Time: 211
+Artist: Demi Lovato
+Title: Heart Attack
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 50
+Date: 2013
+Genre: Hit Single
+mtime: 1390029522
+song_end
+song_begin: 051 - Love Somebody - Maroon 5.mp3
+Time: 230
+Artist: Maroon 5
+Title: Love Somebody
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 51
+Date: 2013
+Genre: Hit Single
+mtime: 1390029295
+song_end
+song_begin: 052 - I Will Wait - Mumford & Sons.mp3
+Time: 277
+Artist: Mumford & Sons
+Title: I Will Wait
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 52
+Date: 2013
+Genre: Hit Single
+mtime: 1390029522
+song_end
+song_begin: 053 - Try - Pink.mp3
+Time: 248
+Artist: P!nk
+Title: Try
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 53
+Date: 2013
+Genre: Hit Single
+mtime: 1390029342
+song_end
+song_begin: 054 - Wagon Wheel - Darius Rucker.mp3
+Time: 297
+Artist: Darius Rucker
+Title: Wagon Wheel
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 54
+Date: 2013
+Genre: Hit Single
+mtime: 1390029493
+song_end
+song_begin: 055 - Gangnam Style - Psy.mp3
+Time: 220
+Artist: Psy
+Title: Gangnam Style
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 55
+Date: 2013
+Genre: Hit Single
+mtime: 1390029449
+song_end
+song_begin: 056 - I Need Your Love - Calvin Harris ft. Ellie Goulding.mp3
+Time: 238
+Artist: Calvin Harris ft. Ellie Goulding
+Title: I Need Your Love
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 56
+Date: 2013
+Genre: Hit Single
+mtime: 1390029521
+song_end
+song_begin: 057 - Die Young - Kesha.mp3
+Time: 213
+Artist: Ke$ha
+Title: Die Young
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 57
+Date: 2013
+Genre: Hit Single
+mtime: 1390029521
+song_end
+song_begin: 058 - Some Nights - Fun.mp3
+Time: 277
+Artist: Fun.
+Title: Some Nights
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 58
+Date: 2013
+Genre: Hit Single
+mtime: 1390029042
+song_end
+song_begin: 059 - Bad - Wale ft Tiara Thomas.mp3
+Time: 258
+Artist: Wale ft. Tiara Thomas
+Title: Bad
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 59
+Date: 2013
+Genre: Hit Single
+mtime: 1390029037
+song_end
+song_begin: 060 - Boys 'Round Here - Blake Sheldon ft. Pistol Annies & Friends.mp3
+Time: 290
+Artist: Blake Sheldon ft. Pistol Annies & Friends
+Title: Boys 'Round Here
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 60
+Date: 2013
+Genre: Hit Single
+mtime: 1390029042
+song_end
+song_begin: 061 - Gone, Gone, Gone - Phillip Phillips.mp3
+Time: 210
+Artist: Phillip Phillips
+Title: Gone, Gone, Gone
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 61
+Date: 2013
+Genre: Hit Single
+mtime: 1390029056
+song_end
+song_begin: 062 - Demons - Imagine Dragons.mp3
+Time: 178
+Artist: Imagine Dragons
+Title: Demons
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 62
+Date: 2013
+Genre: Hit Single
+mtime: 1390029057
+song_end
+song_begin: 063 - Counting Stars - One Republic.mp3
+Time: 257
+Artist: One Republic
+Title: Counting Stars
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 63
+Date: 2013
+Genre: Hit Single
+mtime: 1390029067
+song_end
+song_begin: 064 - I Cry - Flo Rida.mp3
+Time: 225
+Artist: Flo Rida
+Title: I Cry
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 64
+Date: 2013
+Genre: Hit Single
+mtime: 1390029076
+song_end
+song_begin: 065 - Little Talks - Of Monsters & Men.mp3
+Time: 267
+Artist: Of Monsters And Men
+Title: Little Talks
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 65
+Date: 2013
+Genre: Hit Single
+mtime: 1390029076
+song_end
+song_begin: 066 - The Other Side - Jason Derulo.mp3
+Time: 227
+Artist: Jason Derulo
+Title: The Other Side
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 66
+Date: 2013
+Genre: Hit Single
+mtime: 1390029196
+song_end
+song_begin: 067 - Berzerk - Eminem.mp3
+Time: 239
+Artist: Eminem
+Title: Berzerk
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 67
+Date: 2013
+Genre: Hit Single
+mtime: 1390029086
+song_end
+song_begin: 068 - Catch My Breath - Kelly Clarkson.mp3
+Time: 252
+Artist: Kelly Clarkson
+Title: Catch My Breath
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 68
+Date: 2013
+Genre: Hit Single
+mtime: 1390029090
+song_end
+song_begin: 069 - Crash My Party - Luke Bryan.mp3
+Time: 235
+Artist: Luke Bryan
+Title: Crash My Party
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 69
+Date: 2013
+Genre: Hit Single
+mtime: 1390029117
+song_end
+song_begin: 070 - Pour It Up - Rihanna.mp3
+Time: 161
+Artist: Rihanna
+Title: Pour It Up
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 70
+Date: 2013
+Genre: Hit Single
+mtime: 1390029098
+song_end
+song_begin: 071 - 22 - Taylor Swift.mp3
+Time: 232
+Artist: Taylor Swift
+Title: 22
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 71
+Date: 2013
+Genre: Hit Single
+mtime: 1390029354
+song_end
+song_begin: 072 - I Want Crazy - Hunter Hayes.mp3
+Time: 237
+Artist: Hunter Hayes
+Title: I Want Crazy
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 72
+Date: 2013
+Genre: Hit Single
+mtime: 1390029367
+song_end
+song_begin: 073 - The Fox (What Does The Fox Say) - Ylvis.mp3
+Time: 214
+Artist: Ylvis
+Title: The Fox
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 73
+Date: 2013
+Genre: Hit Single
+mtime: 1390029009
+song_end
+song_begin: 074 - Best Song Ever - One Direction.mp3
+Time: 202
+Artist: One Direction
+Title: Best Song Ever
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 74
+Date: 2013
+Genre: Hit Single
+mtime: 1390029361
+song_end
+song_begin: 075 - The A Team - Ed Sheeran.mp3
+Time: 262
+Artist: Ed Sheeran
+Title: The A Team
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 75
+Date: 2013
+Genre: Hit Single
+mtime: 1390029360
+song_end
+song_begin: 076 - Carry On - Fun.mp3
+Time: 280
+Artist: fun.
+Title: Carry On
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 76
+Date: 2013
+Genre: Hit Single
+mtime: 1390029387
+song_end
+song_begin: 077 - Highway Don't Care - Tim McGraw ft. Taylor Swift.mp3
+Time: 279
+Artist: Tim McGraw ft. Taylor Swift
+Title: Highway Don't Care
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 77
+Date: 2013
+Genre: Hit Single
+mtime: 1390029367
+song_end
+song_begin: 078 - That's My Kind of Night - Luke Bryan.mp3
+Time: 190
+Artist: Luke Bryan
+Title: That's My Kind of Night
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 78
+Date: 2013
+Genre: Hit Single
+mtime: 1390029108
+song_end
+song_begin: 079 - Swimming Pools (Drank) - Kendrick Lamar.mp3
+Time: 221
+Artist: Kendrick Lamar
+Title: Swimming Pools (Drank)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 79
+Date: 2013
+Genre: Hit Single
+mtime: 1390029129
+song_end
+song_begin: 080 - Sure Be Cool If You Did - Blake Sheldon.mp3
+Time: 216
+Artist: Blake Shelton
+Title: Sure Be Cool If You Did
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 80
+Date: 2013
+Genre: Hit Single
+mtime: 1390029136
+song_end
+song_begin: 081 - Beautiful - Mariah Carey ft. Miguel.mp3
+Time: 202
+Artist: Mariah Carey ft. Miguel
+Title: #Beautiful
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 81
+Date: 2013
+Genre: Hit Single
+mtime: 1390029266
+song_end
+song_begin: 083 - Body Party - Ciara.mp3
+Time: 237
+Artist: Ciara
+Title: Body Party
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 83
+Date: 2013
+Genre: Hit Single
+mtime: 1390029172
+song_end
+song_begin: 084 - Adorn - Miguel.mp3
+Time: 194
+Artist: Miguel
+Title: Adorn
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 84
+Date: 2013
+Genre: Hit Single
+mtime: 1390029158
+song_end
+song_begin: 085 - Hall Of Fame - The Script ft. Will.I.Am.mp3
+Time: 202
+Artist: The Script ft. Will.I.Am
+Title: Hall Of Fame
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 85
+Date: 2013
+Genre: Hit Single
+mtime: 1390029314
+song_end
+song_begin: 086 - Let Me Love You (Until You Learn to Love Yourself) - Ne-Yo.mp3
+Time: 254
+Artist: Ne-Yo
+Title: Let Me Love You (Until You Learn to Love Yourself)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 86
+Date: 2013
+Genre: Hit Single
+mtime: 1390029219
+song_end
+song_begin: 087 - U.O.E.N.O. - Rocko ft. Future & Rick Ross.mp3
+Time: 260
+Artist: Rocko ft. Future & Rick Ross
+Title: U.O.E.N.O.
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 87
+Date: 2013
+Genre: Hit Single
+mtime: 1390029314
+song_end
+song_begin: 088 - Next to Me - Emeli Sande.mp3
+Time: 197
+Artist: Emeli Sande
+Title: Next to Me
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 88
+Date: 2013
+Genre: Hit Single
+mtime: 1390029189
+song_end
+song_begin: 089 - Mama's Broken Heart - Miranda Lambert.mp3
+Time: 179
+Artist: Miranda Lambert
+Title: Mama's Broken Heart
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 89
+Date: 2013
+Genre: Hit Single
+mtime: 1390029176
+song_end
+song_begin: 090 - It Goes Like This - Thomas Rhett.mp3
+Time: 187
+Artist: Thomas Rhett
+Title: It Goes Like This
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 90
+Date: 2013
+Genre: Hit Single
+mtime: 1390029174
+song_end
+song_begin: 091 - Bugatti - Ace Hood ft. Future & Rick Ross.mp3
+Time: 270
+Artist: Ace Hood ft. Future & Rick Ross
+Title: Bugatti
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 91
+Date: 2013
+Genre: Hit Single
+mtime: 1390028958
+song_end
+song_begin: 092 - Wanted - Hunter Hayes.mp3
+Time: 230
+Artist: Hunter Hayes
+Title: Wanted
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 92
+Date: 2013
+Genre: Hit Single
+mtime: 1390028978
+song_end
+song_begin: 093 - Downtown - lady Antebellum.mp3
+Time: 196
+Artist: Lady Antebellum
+Title: Downtown
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 93
+Date: 2013
+Genre: Hit Single
+mtime: 1390029339
+song_end
+song_begin: 094 - Get Your Shine On - Florida Georgia Line.mp3
+Time: 222
+Artist: Florida Georgia Line
+Title: Get Your Shine On
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 94
+Date: 2013
+Genre: Hit Single
+mtime: 1390029213
+song_end
+song_begin: 095 - Thatpower - Will.I.Am ft. Justin Bieber.mp3
+Time: 280
+Artist: Will.I.Am ft. Justin Bieber
+Title: #Thatpower
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 95
+Date: 2013
+Genre: Hit Single
+mtime: 1390029225
+song_end
+song_begin: 096 - Brave - Sara Bareilles.mp3
+Time: 221
+Artist: Sara Bareilles
+Title: Brave
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 96
+Date: 2013
+Genre: Hit Single
+mtime: 1390029254
+song_end
+song_begin: 097 - Let Her Go - Passenger.mp3
+Time: 253
+Artist: Passenger
+Title: Let Her Go
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 97
+Date: 2013
+Genre: Hit Single
+mtime: 1390029314
+song_end
+song_begin: 098 - Runnin' Outta Moonlight - Randy Houser.mp3
+Time: 194
+Artist: Randy Houser
+Title: Runnin' Outta Moonlight
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 98
+Date: 2013
+Genre: Hit Single
+mtime: 1390029224
+song_end
+song_begin: 099 - I'm Different - 2 Chainz.mp3
+Time: 207
+Artist: 2 Chainz
+Title: I'm Different
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 99
+Date: 2013
+Genre: Hit Single
+mtime: 1390029250
+song_end
+song_begin: 100 - Still Into You - Paramore.mp3
+Time: 216
+Artist: Paramore
+Title: Still Into You
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 100
+Date: 2013
+Genre: Hit Single
+mtime: 1390029261
+song_end
+playlist_begin: Playlist Random.m3u
+mtime: 1390029154
+playlist_end
+playlist_begin: 00-playlist.m3u
+mtime: 1390198492
+playlist_end
+playlist_begin: Playlist Artist.m3u
+mtime: 1390029154
+playlist_end
+playlist_begin: Playlist Title.m3u
+mtime: 1390029154
+playlist_end
+playlist_begin: Playlist.m3u
+mtime: 1390029154
+playlist_end
+end: USA Billboard 100 2013/1 - The Music
+end: USA Billboard 100 2013
+directory: USA Top 40 Singles
+mtime: 1390722924
+begin: USA Top 40 Singles
+directory: 1 - USA Top40 - 25th January 2014 [Bubanee]
+mtime: 1390722924
+begin: USA Top 40 Singles/1 - USA Top40 - 25th January 2014 [Bubanee]
+song_begin: 01 - Timber (feat. Ke$ha) - Pitbull.mp3
+Time: 204
+Artist: Pitbull
+Title: Timber (feat. Ke$ha)
+Album: Billboard 25th January 2014 Top40
+Track: 1
+Date: 2014
+Genre: Pop
+mtime: 1390723109
+song_end
+song_begin: 02 - Counting Stars - One Republic.mp3
+Time: 257
+Artist: One Republic
+Title: Counting Stars
+Album: Billboard 25th January 2014 Top40
+Track: 2
+Date: 2014
+Genre: Pop
+mtime: 1390723099
+song_end
+song_begin: 03 - The Monster (feat. Rihanna) - Eminem.mp3
+Time: 251
+Artist: Eminem
+Title: The Monster (feat. Rihanna)
+Album: Billboard 25th January 2014 Top40
+Track: 3
+Date: 2014
+Genre: Pop
+mtime: 1390723110
+song_end
+song_begin: 04 - Dark Horse (feat. Juicy J) - Katy Perry.mp3
+Time: 216
+Artist: Katy Perry
+Title: Dark Horse (feat. Juicy J)
+Album: Billboard 25th January 2014 Top40
+Track: 4
+Date: 2014
+Genre: Pop
+mtime: 1390723121
+song_end
+song_begin: 05 - Say Something - A Great Big World.mp3
+Time: 232
+Artist: A Great Big World
+Title: Say Something
+Album: Billboard 25th January 2014 Top40
+Track: 5
+Date: 2014
+Genre: Pop
+mtime: 1390723125
+song_end
+song_begin: 06 - Let Her Go - Passenger.mp3
+Time: 253
+Artist: Passenger
+Title: Let Her Go
+Album: Billboard 25th January 2014 Top40
+Track: 6
+Date: 2014
+Genre: Pop
+mtime: 1390723216
+song_end
+song_begin: 07 - Royals - Lorde.mp3
+Time: 192
+Artist: Lorde
+Title: Royals
+Album: Billboard 25th January 2014 Top40
+Track: 7
+Date: 2014
+Genre: Pop
+mtime: 1390723232
+song_end
+song_begin: 08 - Wake Me Up (Radio Edit) - Avicii.mp3
+Time: 250
+Artist: Avicii
+Title: Wake Me Up (Radio Edit)
+Album: Billboard 25th January 2014 Top40
+Track: 8
+Date: 2014
+Genre: Pop
+mtime: 1390723270
+song_end
+song_begin: 09 - Demons - Imagine Dragons.mp3
+Time: 178
+Artist: Imagine Dragons
+Title: Demons
+Album: Billboard 25th January 2014 Top40
+Track: 9
+Date: 2014
+Genre: Pop
+mtime: 1390723241
+song_end
+song_begin: 10 - Story of My Life - One Direction.mp3
+Time: 245
+Artist: One Direction
+Title: Story of My Life
+Album: Billboard 25th January 2014 Top40
+Track: 10
+Date: 2014
+Genre: Pop
+mtime: 1390723249
+song_end
+song_begin: 11 - Team - Lorde.mp3
+Time: 193
+Artist: Lorde
+Title: Team
+Album: Billboard 25th January 2014 Top40
+Track: 11
+Date: 2014
+Genre: Pop
+mtime: 1390723254
+song_end
+song_begin: 12 - Pompeii - Bastille.mp3
+Time: 215
+Artist: Bastille
+Title: Pompeii
+Album: Billboard 25th January 2014 Top40
+Track: 12
+Date: 2014
+Genre: Pop
+mtime: 1390723266
+song_end
+song_begin: 13 - Roar - Katy Perry.mp3
+Time: 223
+Artist: Katy Perry
+Title: Roar
+Album: Billboard 25th January 2014 Top40
+Track: 13
+Date: 2014
+Genre: Pop
+mtime: 1390723206
+song_end
+song_begin: 14 - Wrecking Ball - Miley Cyrus.mp3
+Time: 222
+Artist: Miley Cyrus
+Title: Wrecking Ball
+Album: Billboard 25th January 2014 Top40
+Track: 14
+Date: 2014
+Genre: Pop
+mtime: 1390723139
+song_end
+song_begin: 15 - Burn - Ellie Goulding.mp3
+Time: 231
+Artist: Ellie Goulding
+Title: Burn
+Album: Billboard 25th January 2014 Top40
+Track: 15
+Date: 2014
+Genre: Pop
+mtime: 1390723150
+song_end
+song_begin: 16 - Drunk In Love (feat. Jay-Z) - Beyonce.mp3
+Time: 324
+Artist: Beyonce
+Title: Drunk In Love (feat. Jay-Z)
+Album: Billboard 25th January 2014 Top40
+Track: 16
+Date: 2014
+Genre: Pop
+mtime: 1390723157
+song_end
+song_begin: 17 - Hold On, We're Going Home - Drake ft. Majid Jordan.mp3
+Time: 227
+Artist: Drake
+Title: Hold On, We're Going Home
+Album: Billboard 25th January 2014 Top40
+Track: 17
+Date: 2014
+Genre: Pop
+mtime: 1390723165
+song_end
+song_begin: 18 - Stay the Night (feat. Hayley Williams of Paramore) - Zedd.mp3
+Time: 217
+Artist: Zedd
+Title: Stay the Night (feat. Hayley Williams of Paramore)
+Album: Billboard 25th January 2014 Top40
+Track: 18
+Date: 2014
+Genre: Pop
+mtime: 1390723178
+song_end
+song_begin: 19 - Do What U Want (feat. R. Kelly) - Lady GaGa.mp3
+Time: 227
+Artist: Lady GaGa
+Title: Do What U Want (feat. R. Kelly)
+Album: Billboard 25th January 2014 Top40
+Track: 19
+Date: 2014
+Genre: Pop
+mtime: 1390723169
+song_end
+song_begin: 20 - Sweater Weather - The Neighbourhood.mp3
+Time: 240
+Artist: The Neighbourhood
+Title: Sweater Weather
+Album: Billboard 25th January 2014 Top40
+Track: 20
+Date: 2014
+Genre: Pop
+mtime: 1390723182
+song_end
+song_begin: 21 - Show Me (feat. Chris Brown).mp3
+Time: 220
+Artist: Kid Ink
+Title: Show Me (feat. Chris Brown)
+Album: Billboard 25th January 2014 Top40
+Track: 21
+Date: 2014
+Genre: Pop
+mtime: 1390723210
+song_end
+song_begin: 22 - White Walls (feat. Schoolboy Q and Hollis) - Macklemore & Ryan Lewis.mp3
+Time: 220
+Artist: Macklemore & Ryan Lewis
+Title: White Walls [feat. Schoolboy Q and Hollis]
+Album: Billboard 25th January 2014 Top40
+Track: 22
+Date: 2014
+Genre: Pop
+mtime: 1390723053
+song_end
+song_begin: 23 - 23 (feat. Miley Cyrus, Wiz Khalifa & Juicy J) - Mike Will Made-It.mp3
+Time: 253
+Artist: Mike Will Made-It
+Title: 23 (feat. Miley Cyrus, Wiz Khalifa & Juicy J)
+Album: Billboard 25th January 2014 Top40
+Track: 23
+Date: 2014
+Genre: Pop
+mtime: 1390723207
+song_end
+song_begin: 24 - The Man - Aloe Blacc.mp3
+Time: 256
+Artist: Aloe Blacc
+Title: The Man
+Album: Billboard 25th January 2014 Top40
+Track: 24
+Date: 2013
+Genre: Pop
+mtime: 1390723073
+song_end
+song_begin: 25 - Let it Go - Idina Menzel.mp3
+Time: 225
+Artist: Idina Menzel
+Title: Let It Go
+Album: Billboard 25th January 2014 Top40
+Track: 25
+Date: 2014
+Genre: Pop
+mtime: 1390723222
+song_end
+song_begin: 26 - Brave - Sara Bareilles.mp3
+Time: 221
+Artist: Sara Bareilles
+Title: Brave
+Album: Billboard 25th January 2014 Top40
+Track: 26
+Date: 2014
+Genre: Pop
+mtime: 1390723270
+song_end
+song_begin: 27 - My Nigga Explicit (ft. Jeezy, Rich Homie Quan) - YG.mp3
+Time: 235
+Artist: YG
+Title: My Nigga
+Album: Billboard 25th January 2014 Top40
+Track: 27
+Date: 2014
+Genre: Pop
+mtime: 1390723272
+song_end
+song_begin: 28 - Blurred Lines - Robin Thicke.mp3
+Time: 263
+Artist: Robin Thicke
+Title: Blurred Lines
+Album: Billboard 25th January 2014 Top40
+Track: 28
+Date: 2014
+Genre: Pop
+mtime: 1390723270
+song_end
+song_begin: 29 - Talk Dirty (feat. 2 Chainz) - Jason Derulo.mp3
+Time: 178
+Artist: Jason Derulo
+Title: Talk Dirty (feat. 2 Chainz)
+Album: Billboard 25th January 2014 Top40
+Track: 29
+Date: 2013
+Genre: Pop
+mtime: 1390723270
+song_end
+song_begin: 30 - Safe and Sound - Capital Cities.mp3
+Time: 193
+Artist: Capital Cities
+Title: Safe and Sound
+Album: Billboard 25th January 2014 Top40
+Track: 30
+Date: 2014
+Genre: Pop
+mtime: 1390723272
+song_end
+song_begin: 31 - Radioactive - Imagine Dragons.mp3
+Time: 188
+Artist: Imagine Dragons
+Title: Radioactive
+Album: Billboard 25th January 2014 Top40
+Track: 31
+Date: 2014
+Genre: Pop
+mtime: 1390723272
+song_end
+song_begin: 32 - Unconditionally - Katy Perry.mp3
+Time: 229
+Artist: Katy Perry
+Title: Unconditionally
+Album: Billboard 25th January 2014 Top40
+Track: 32
+Date: 2014
+Genre: Pop
+mtime: 1390723273
+song_end
+song_begin: 33 - Drink a Beer - Luke Bryan.mp3
+Time: 203
+Artist: Luke Bryan
+Title: Drink a Beer
+Album: Billboard 25th January 2014 Top40
+Track: 33
+Date: 2014
+Genre: Pop
+mtime: 1390723268
+song_end
+song_begin: 34 - Adore You - Miley Cyrus.mp3
+Time: 279
+Artist: Miley Cyrus
+Title: Adore You
+Album: Billboard 25th January 2014 Top40
+Track: 34
+Date: 2014
+Genre: Pop
+mtime: 1390723209
+song_end
+song_begin: 35 - Stay - Florida Georgia Line.mp3
+Time: 200
+Artist: Florida Georgia Line
+Title: Stay
+Album: Billboard 25th January 2014 Top40
+Track: 35
+Date: 2014
+Genre: Pop
+mtime: 1390723020
+song_end
+song_begin: 36 - Love Me Again - John Newman.mp3
+Time: 216
+Artist: John Newman
+Title: Love Me Again
+Album: Billboard 25th January 2014 Top40
+Track: 36
+Date: 2013
+Genre: Pop
+mtime: 1390723045
+song_end
+song_begin: 37 - Applause - Lady Gaga.mp3
+Time: 213
+Artist: Lady Gaga
+Title: Applause
+Album: Billboard 25th January 2014 Top40
+Track: 37
+Date: 2014
+Genre: Pop
+mtime: 1390723054
+song_end
+song_begin: 38 - Best Day of My Life - American Authors.mp3
+Time: 194
+Artist: American Authors
+Title: Best Day of My Life
+Album: Billboard 25th January 2014 Top40
+Track: 38
+Date: 2014
+Genre: Pop
+mtime: 1390723198
+song_end
+song_begin: 39 - Whatever She's Got - David Nail.mp3
+Time: 235
+Artist: David Nail
+Title: Whatever She's Got
+Album: Billboard 25th January 2014 Top40
+Track: 39
+Date: 2013
+Genre: Pop
+mtime: 1390723205
+song_end
+song_begin: 40 - Love More (feat. Nicki Minaj) - Chris Brown.mp3
+Time: 190
+Artist: Chris Brown
+Title: Love More (feat. Nicki Minaj)
+Album: Billboard 25th January 2014 Top40
+Track: 40
+Date: 2013
+Genre: Pop
+mtime: 1390723272
+song_end
+playlist_begin: Playlist.m3u
+mtime: 1390723269
+playlist_end
+end: USA Top 40 Singles/1 - USA Top40 - 25th January 2014 [Bubanee]
+directory: 2 - Top100 Debuts 18th January 2014 (Last weeks as sourced)
+mtime: 1390722924
+begin: USA Top 40 Singles/2 - Top100 Debuts 18th January 2014 (Last weeks as sourced)
+song_begin: 01 19 You + Me - Dan + Shay.mp3
+Time: 217
+Artist: Dan + Shay
+Title: 19 You + Me
+Album: Billboard Top100 Debut 18th January 2014
+Track: 1
+Date: 2013
+Genre: Pop
+mtime: 1390723271
+song_end
+song_begin: 01 Drink to That All Night - Jerrod Nierman.mp3
+Time: 226
+Artist: Jerrod Niemann
+Title: Drink to That All Night
+Album: Billboard Top100 Debut 18th January 2014
+Track: 2
+Genre: Pop
+mtime: 1390723218
+song_end
+song_begin: 01 Happy (Gru's Theme from Despicable Me 2) - Pharell Williams.mp3
+Time: 233
+Artist: Pharrell Williams
+Title: Happy (Gru's Theme from Despicable Me 2)
+Album: Billboard Top100 Debut 18th January 2014
+Track: 3
+Date: 2013
+Genre: Pop
+mtime: 1390723060
+song_end
+song_begin: 01 Love Don't Die - The Fray.mp3
+Time: 183
+Artist: The Fray
+Title: Love Don't Die
+Album: Billboard Top100 Debut 18th January 2014
+Track: 4
+Date: 2013
+Genre: Pop
+mtime: 1390723093
+song_end
+playlist_begin: Playlist.m3u
+mtime: 1390723026
+playlist_end
+end: USA Top 40 Singles/2 - Top100 Debuts 18th January 2014 (Last weeks as sourced)
+end: USA Top 40 Singles
+song_begin: Usher - DJ Got Us Fallin' In Love (feat. Pitbull) [2010-Single][MJN].mp3
+Time: 222
+Artist: Usher
+Title: DJ Got Us Fallin' In Love (feat. Pitbull)
+Album: DJ Got Us Fallin' In Love (feat. Pitbull) - Single
+Track: 1
+Date: 2010
+Genre: R&B/Soul
+mtime: 1291995848
+song_end

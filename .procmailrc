@@ -1,0 +1,13 @@
+MAILDIR=$HOME/Mail
+DEFAULT=$MAILDIR/inbox
+LOGFILE=$MAILDIR/log
+
+
+:0:
+* ^(To|Reply-To):.*frank@thevillamotel.com
+FWS/INBOX/
+
+:0:
+* ^(To|Reply-To):.*frankshin82@gmail.com
+GMAIL/INBOX/
+

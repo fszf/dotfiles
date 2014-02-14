@@ -1,0 +1,10 @@
+# Statusbar if tmux runs in X
+#
+set -g status-attr bright
+set -g status-right-length 40
+set -g status-left-length 40
+
+set -g status-left '#[fg=blue]#H #[fg=black,bright]• #[default]#[fg=green]#(uname -r)#[default]'
+set -g status-right '#[fg=cyan] #(tmuxup) #[fg=black,bright]• #[fg=magenta]#(cut -d " " -f1-3 /proc/loadavg)'
+
+
