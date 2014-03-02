@@ -1,152 +1,98 @@
-#---------------------------------------------------------------
-# file:     ~/.tmux/conf                         
-# author:   jason ryan - http://jasonwryan.com/    
-# vim:fenc=utf-8:nu:ai:si:et:ts=4:sw=4:fdm=indent:fdn=1:ft=conf:
-#---------------------------------------------------------------
-# Based on Thayer Williams' (http://cinderwick.ca)
+# file:     ~/.tmux.conf files
+# author:   Simon Gomizelj
+# ----------------------------------------------------------------------------
 
-# set correct term
-set -g default-terminal "screen-256color"
-
-# set prefix key to ctrl+t
 unbind C-b
-set -g prefix C-t 
-
-# reload config without killing server
-bind R source-file ~/.tmux/conf \; display-message "  Config reloaded..".
-
-# more intuitive keybindings for splitting
-unbind %
-bind h split-window -v
-unbind '"'
-bind v split-window -h
-
-# set vi keys
-setw -g mode-keys vi
 unbind [
+unbind %
+unbind '"'
+
+# OPTIONS {{{1
+set -g prefix C-a
+set -sg escape-time 0
+set -g default-terminal "screen-256color"
+set -g set-titles on
+set -g set-titles-string "tmux:#I #W"
+set -g history-limit 10000
+set -g base-index 1
+set -g display-panes-time 10000
+set -g bell-action any
+set -g visual-bell off
+set -g visual-activity off
+set -g visual-content on
+set -g mode-mouse off
+setw -g monitor-activity on
+setw -g mode-keys vi
+setw -g aggressive-resize on
+setw -g clock-mode-colour red
+setw -g clock-mode-style 24
+
+# Sane scrolling
+set -g terminal-overrides 'xterm*:smcup@:rmcup@'
+
+# BINDINGS {{{1
+bind a send-prefix
+bind b set-option status
+bind P paste-buffer
+bind v split-window -h
+bind s split-window -v
+bind R source-file ~/.tmux.conf \; display-message "sourced config file"
+bind m command-prompt -p "man:" "split-window -h 'man %%'"
+bind '~' split-window -h "exec htop"
+
 bind Escape copy-mode
-unbind p
-bind p paste-buffer
-bind-key -t vi-copy 'v' begin-selection
-bind-key -t vi-copy 'y' copy-selection
+bind C-h previous-window
+bind C-l next-window
 
-# copy tmux buffer to clipboard
-bind C-y run "tmux show-buffer | xsel -b"
-# move x clipboard into tmux paste buffer
-bind C-p run "tmux set-buffer \"$(xsel -o)\"; tmux paste-buffer"
+bind h select-pane -L
+bind k select-pane -U
+bind j select-pane -D
+bind l select-pane -R
 
-# pane selection
-bind Left select-pane -L
-bind Right select-pane -R
-bind Up select-pane -U
-bind Down select-pane -D
+bind J resize-pane -D 3
+bind K resize-pane -U 3
+bind H resize-pane -L 3
+bind L resize-pane -R 3
 
-# pane/window movement
-bind-key j command-prompt -p "join pane from:" "join-pane -s '%%'"
-bind-key s command-prompt -p "send pane to:" "join-pane -t '%%'"
-bind-key S command-prompt -p "swap window with:" "swap-window -t ':%%'"
-bind-key m command-prompt -p "move window to:" "move-window -t ':%%'"
-bind-key , command-prompt -p "rename window to:" "rename-window '%%'"
-
-# quick view of processes
-bind '~' split-window -v -p 50 "htop"
-
-# open {tmux,mutt,vim} man page
-bind-key T neww -n "Tmux manual" "exec man tmux"
-bind-key M neww -n "Mutt manual" "exec man mutt"
-bind-key V neww -n "Vim manual" "exec vim -c 'h user-manual|only'"
-
-# open %% man page
-bind C-m command-prompt -p "Open man page for:" "new-window 'exec man %%'"
-
-# send the prefix to client inside window (ala nested sessions)
-bind-key -n C-a send-prefix
-
-# toggle last window like screen
-bind-key C-b last-window
-
-# confirm before killing a window or the server
 bind-key k confirm kill-window
 bind-key K confirm kill-server
+#bind ^k confirm kill-window
+#bind ^s confirm kill-server
 
-# toggle statusbar
-bind-key b set-option status
-
-# ctrl+left/right cycles thru windows
-bind-key -n C-right next
+#cycle windows
+bind-key -n C-right next                                                                                                                    
 bind-key -n C-left prev
 
-# scrollback buffer n lines
-set -g history-limit 5000
+# CLIPBOARD selection integration
+bind C-c run-shell 'tmux show-buffer | xclip -i -selection clipboard'
+bind C-v run-shell 'tmux set-buffer $(xclip -o -selection clipboard); tmux paste-buffer'
 
-# listen for activity on all windows
-set -g bell-action any
+# THEME {{{1
+setw -g window-status-format " #F#I:#W#F "
+setw -g window-status-current-format " #F#I:#W#F "
+setw -g window-status-current-bg black
+setw -g window-status-current-fg green
+setw -g window-status-current-attr bright
+setw -g window-status-bg default
+setw -g window-status-fg white
+setw -g window-status-attr dim
 
-# on-screen time for display-panes in ms
-set -g display-panes-time 2000
-
-# start window indexing at one instead of zero
-set -g base-index 0
-set -g renumber-windows on
-
-# enable wm window titles
-set -g set-titles on
-
-# enable auto renaming
-setw -g automatic-rename on
-
-# border colour
-set -g pane-border-fg blue
-set -g pane-border-bg default
-set -g pane-active-border-fg blue
-set -g pane-active-border-bg default
-
-# wm window title string (uses statusbar variables)
-set -g set-titles-string "tmux:#I [ #W ]"
-
-# initialize sessions
-bind S source-file ~/.tmux/standard
-bind I source-file ~/.tmux/irssi
-
-# environment
-set -g update-environment "DISPLAY SSH_ASKPASS SSH_AUTH_SOCK SSH_AGENT_PID SSH_CONNECTION WINDOWID XAUTHORITY"
-
-# statusbar --------------------------------------------------------------
-set -g window-status-format "#I:#W"
-set -g window-status-current-format "#I:#W"
-
-set -g status-keys vi
-bind-key -t vi-edit Up history-up
-bind-key -t vi-edit Down history-down
-
-set -g status-interval 1
-set -g status-justify centre # center align window list
-
-# default statusbar colors
-set -g status-fg white
-set -g status-bg default
-
-# default window title colors
-set-window-option -g window-status-fg white
-set-window-option -g window-status-bg default
-set-window-option -g window-status-attr dim
-
-# active window title colors
-set-window-option -g window-status-current-fg cyan
-set-window-option -g window-status-current-bg default
-set-window-option -g window-status-current-attr dim
-
-# set bell colours
-set -g window-status-bell-bg default                                                                      
-set -g window-status-bell-fg red
-set -g window-status-bell-attr bright
-
-# command/message line colors
-set -g message-fg white
-set -g message-bg black
+set -g message-fg red
+set -g message-bg white
 set -g message-attr bright
 
-# Statusbar starting in X or not
-if '[ -n "$DISPLAY" ]' 'source-file ~/.tmux/inx'
-if '[ -z "$DISPLAY" ]' 'source-file ~/.tmux/xless'
+set -g pane-active-border-bg default
+set -g pane-active-border-fg red
+set -g pane-border-bg default
+set -g pane-border-fg default
 
+# STATUS BAR {{{1
+set -g status-bg default
+set -g status-fg default
+set -g status-attr bright
+set -g status-interval 5
+set -g status-justify left
+set -g status-left-length 100
+set -g status-right-length 100
+set -g status-left ""
+set -g status-right '#[fg=green]#[bg=][#(uname -r)]#[default] #[fg=green]#H#[default]#[fg=lightblue]#(uptime | cut -f1 -d,) #[default]'
