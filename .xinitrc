@@ -12,11 +12,11 @@ if [ -d /etc/X11/xinit/xinitrc.d ]; then
 fi
 
 # external monitor
-external=$(xrandr -q | awk '/HDMI1/ {print $2}')
-if [ "$external" = connected ]; then
-  xrandr --output eDP1 --mode 1600x900 --pos 0x0 --below HDMI1 \
-  --output HDMI1 --mode 1680x1050 --pos 0x900
-fi
+#external=$(xrandr -q | awk '/HDMI1/ {print $2}')
+#if [ "$external" = connected ]; then
+#  xrandr --output eDP1 --mode 1600x900 --pos 0x0 --below HDMI1 \
+#  --output HDMI1 --mode 1680x1050 --pos 0x900
+#fi
 
 # load .Xresources
 xrdb -merge $HOME/.Xresources 
@@ -34,14 +34,14 @@ xset fp rehash
 #xset s off
 #turn on screen powersave
 xset +dpms 
-xset dpms 0 0 300 
+xset dpms 0 0 150 
 
 #turn on mpd
-mpd ~/.mpd/mpd.conf 
+#mpd ~/.mpd/mpd.conf 
 
 
 #turn on procmail
-procmail & 
+#procmail & 
 
 # enable xbindkeys
 xbindkeys   
@@ -67,8 +67,8 @@ xbacklight -set 45% &
 
 # set wallpaper
 #imlibsetroot -s $XDG_CONFIG_HOME/background.png &
-#feh --bg-scale '/home/frank604/Pictures/greycloud.jpg' &
-feh --bg-tile '/home/frank604/Pictures/grey_wash_wall/grey_wash_wall.png' &
+feh --bg-scale '/home/frank604/Pictures/islandcity.png' &
+#feh --bg-tile '/home/frank604/Pictures/grey_wash_wall/grey_wash_wall.png' &
 
 # set cursor
 xsetroot -cursor_name left_ptr &
@@ -84,7 +84,9 @@ autocutsel -fork &
 autocutsel -selection PRIMARY -fork &
 
 # auto{u}mount drives
-udiskie --suppress &
+#udiskie --suppress &
+
+caffeine &
 
 # ---- window manager ----
 # launch dwm

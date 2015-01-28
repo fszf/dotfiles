@@ -84,6 +84,10 @@ use_udp_trackers = yes
 #
  peer_exchange = yes
 
+color_inactive_fg = 3
+color_dead_fg = 1
+color_active_fg = 7
+color_finished_fg = 2
 ##color scheme for rtorrent-color from aur
 ##colors = 0black/1red/2green/3yellow/4blue/5magenta/6cyan/7white
 #done_fg_color=5

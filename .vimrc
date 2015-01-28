@@ -4,15 +4,14 @@
 " vim:fenc=utf-8:nu:ai:si:et:ts=4:sw=4:fdm=indent:fdn=1:ft=vim:
 "---------------------------------------------------------------
 
+set nocompatible
+set t_Co=16
+call pathogen#infect()
 syntax on
+set background=dark " dark|light "
+colorscheme solarized
 filetype plugin on
 filetype indent on
-
-if exists('$WINDOWID') && &term =~ "rxvt"
-    colorscheme miromiro
-else
-    colorscheme miro8                   " colourscheme for the 8-colour linux console
-endif
 
 set ttyfast                             " don't lag…
 set cursorline                          " track position
