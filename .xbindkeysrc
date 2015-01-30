@@ -19,15 +19,15 @@ m:0x0 + c:122
 "/usr/bin/pulseaudio-ctl mute"
 m:0x0 + c:121
 
-"ncmpcpp toggle"
+"mpc toggle"
 m:0x10 + c:172
 XF86AudioPlay
 
-"ncmpcpp next"
+"mpc next"
 m:0x10 + c:171
 XF86AudioNext
 
-"ncmpcpp prev"
+"mpc prev"
 m:0x10 + c:173
 XF86AudioPrev
 
