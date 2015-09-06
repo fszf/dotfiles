@@ -88,7 +88,7 @@ udiskie -q -1 &
 
 caffeine &
 
-#nm-applet &
+nm-applet &
 
 #transmission-gtk -m &
 
@@ -96,7 +96,7 @@ caffeine &
 #xautolock -time 5 -locker slock
 #xautolock -detectsleep -time 5 -locker "systemctl suspend" -notify 150 -notifier "notify-send -u critical -t 10000 -- 'Powersaving on in a few seconds....'"  &
 
-compton -cGb --config ~/.config/compton.conf
+compton --config ~/.config/compton.conf &
 
 # ---- window manager ----
 # launch dwm
