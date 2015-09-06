@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/home/frank604/.tmux'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/frank604/.nwn'
+let g:netrw_dirhist_2='/home/frank604/.vimperator'
+let g:netrw_dirhist_3='/home/frank604/.ncmpcpp'
+let g:netrw_dirhist_4='/usr/lib/notify-osd'

@@ -34,7 +34,7 @@ xset fp rehash
 #xset s off
 #turn on screen powersave
 xset +dpms 
-xset dpms 0 0 150 
+xset dpms 0 0 120 
 
 #turn on mpd
 #mpd ~/.mpd/mpd.conf 
@@ -67,7 +67,7 @@ xbacklight -set 45% &
 
 # set wallpaper
 #imlibsetroot -s $XDG_CONFIG_HOME/background.png &
-feh --bg-scale '/home/frank604/Pictures/islandcity.png' &
+feh --bg-scale '/home/frank604/Pictures/3.jpg' &
 #feh --bg-tile '/home/frank604/Pictures/grey_wash_wall/grey_wash_wall.png' &
 
 # set cursor
@@ -84,13 +84,23 @@ autocutsel -fork &
 autocutsel -selection PRIMARY -fork &
 
 # auto{u}mount drives
-#udiskie --suppress &
+udiskie -q -1 &
 
 caffeine &
 
+#nm-applet &
+
+#transmission-gtk -m &
+
+# xlock + xautolock
+#xautolock -time 5 -locker slock
+#xautolock -detectsleep -time 5 -locker "systemctl suspend" -notify 150 -notifier "notify-send -u critical -t 10000 -- 'Powersaving on in a few seconds....'"  &
+
+compton -cGb --config ~/.config/compton.conf
+
 # ---- window manager ----
 # launch dwm
-exec $HOME/Scripts/dwm-start
+exec $HOME/src/scripts/dwm-start
 
 
 
