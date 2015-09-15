@@ -10,10 +10,10 @@ m:0x0 + c:238
 "kbdlight down"
 m:0x0 + c:237
 
-"/usr/bin/pulseaudio-ctl up"
+"/home/frank604/src/scripts/vol.sh up -i 10% -m PCM"
 m:0x0 + c:123
 
-"/usr/bin/pulseaudio-ctl down"
+"/home/frank604/src/scripts/vol.sh down -i 10% -m PCM"
 m:0x0 + c:122
 
 "/usr/bin/pulseaudio-ctl mute"
