@@ -1,7 +1,7 @@
-"xbacklight -dec 5"
+"bright.sh down"
 m:0x0 + c:232
 
-"xbacklight -inc 5"
+"bright.sh up"
 m:0x0 + c:233
 
 "kbdlight up"
