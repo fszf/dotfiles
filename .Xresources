@@ -1,12 +1,11 @@
 ! ---------------------------------------------------
 ! file:     ~/.Xresources
-! Modified by : frank shin - http://frankshin.com/
 ! Sourced from :   jason ryan - http://jasonwryan.com/
 ! vim:fenc=utf-8:nu:ai:si:et:ts=4:sw=4:ft=xdefaults:
 ! ---------------------------------------------------
 
 ! Urxvt
-URxvt.intensityStyles: false
+!URxvt.intensityStyles: false
 URxvt.buffered: true
 URxvt.cursorColor: #395573
 URxvt.cursorUnderline: false
@@ -15,7 +14,7 @@ URxvt.geometry: 80x22
 URxvt.transparent: 0
 URxvt*urgentOnBell: true
 URxvt.lineSpace: 0
-URxvt.letterSpace: -1
+URxvt.letterSpace: 0
 URxvt*scrollBar_right: false
 URxvt*scrollBar: false
 URxvt*borderLess: false
@@ -29,18 +28,33 @@ Xft.antialias: 1
 Xft.rgba: rgb
 
 ! -- Fonts -- !
-URxvt*font:xft:roboto mono:medium:pixelsize=16
-URxvt*boldFont:xft:roboto mono:medium:pixelsize=16
-!URxvt*font:xft:dejavu sans mono:medium:pixelsize=16
-!URxvt*boldFont:xft:dejavu sans mono:medium:pixelsize=16
+!URxvt.font:xft:droid sans mono:style=bold:pixelsize=13
+!URxvt.boldFont:xft:droid sans mono:style=regular:pixelsize=13
+!URxvt.italicFont:xft:droid sans mono:style=regular:pixelsize=13
+!URxvt.boldItalicFont:xft:droid sans mono:style=regular:pixelsize=13
+!URxvt*font:                 xft:Menlo for Powerline:regular:size=10
+!URxvt*imFont:               xft:Menlo for Powerline:regular:size=10
+!URxvt*boldFont:             xft:Menlo for Powerline:bold:size=10
+!URxvt*italicFont:           xft:Menlo for Powerline:italic:size=10
+!URxvt*boldItalicFont:       xft:Menlo for Powerline:bold:italic:size=10
+
+!URxvt*font:xft:roboto mono:regular:size=10
+!URxvt*boldFont:xft:roboto mono:regular:size=10
+URxvt*font:xft:dejavu sans mono:medium:pixelsize=13, \
+			xft:WenQuanYi Bitmap Song:size=8, \
+            xft:FreeSerif:style=Regular, \
+            xft:unifont:style=Medium:antialias=false, \
+            xft:Serif:style=Regular, \
+URxvt*boldFont:xft:dejavu sans mono:medium:pixelsize=13
+URxvt*italicFont:xft:dejavu sans mono:medium:pixelsize=13
+URxvt*bolditalicFont:xft:dejavu sans mono:medium:pixelsize=13
 !URxvt*font:xft:droid sans mono slashed:pixelsize=18
 !URxvt*boldFont:xft:droid sans mono slashed:pixelsize=18
-!URxvt*font:xft:luxi mono:regular:pixelsize=16
-!URxvt*boldFont:xft:luxi mono:regular:pixelsize=16
 
 ! -- Colours -- !
 !#include "/home/frank604/.colours/base16/base16-monokai.dark.256.xresources"
-#include "/home/frank604/.colours/monokai-dark"
+!#include "/home/frank604/.colours/monokai-dark"
+#include "/home/frank604/.colours/sanctuary"
 
 ! --  Extensions -- !
 URxvt.perl-ext-common: matcher,keyboard-select,url-select,clipboard

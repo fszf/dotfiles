@@ -1,0 +1,24 @@
+program_options:
+    udisks_version: 2
+    tray: false
+    automount: true
+    notify: true
+    file_manager: xdg-open
+mount_options:
+    - id_type: ext4
+      options: [noatime, nodiratime]
+notifications:
+    timeout: 1.5
+notification_actions:
+    device_mounted: [browse]
+    device_added: [mount]
+icon_names:
+    media:  [drive-removable-media, media-optical]
+    browse: [document-open, folder-open]
+    mount:  [udiskie-mount]
+    unmount: [udiskie-unmount]
+    unlock: [udiskie-unlock]
+    lock: [udiskie-lock]
+    eject: [udiskie-eject, media-eject]
+    detach: [udiskie-detach]
+    quit: [application-exit]

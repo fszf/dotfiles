@@ -8,7 +8,7 @@ colorscheme monokai-new
 "let g:molokai_original = 1
 "let g:rehash256 = 1
 
-"set t_Co=256
+set t_Co=256
 syntax on
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -100,14 +100,14 @@ set statusline=\ \%f%m%r%h%w\ ::\ %y\ [%{&ff}]\%=\ [%p%%:\ %l/%L]\
 set laststatus=2
 set cmdheight=1
 
-if has("autocmd")
+"if has("autocmd")
     " always jump to the last cursor position
-    autocmd BufReadPost * if line("'\"")>0 && line("'\"")<=line("$")|exe "normal g`\""|endif
+    "autocmd BufReadPost * if line("'\"")>0 && line("'\"")<=line("$")|exe "normal g`\""|endif
     " specific settings for various filetypes
-    autocmd BufRead,BufNewFile ~/.mutt/temp/mutt-* set ft=mail wrap linebreak nolist spell textwidth=0 wrapmargin=0
-    autocmd BufRead *.md, *.txt, /tmp/vimprobable* set tw=80  nocindent nolist spell
-    autocmd FileType tex set tw=80   " wrap at 80 chars for LaTeX files
-endif
+    "autocmd BufRead,BufNewFile ~/.mutt/temp/mutt-* set ft=mail wrap linebreak nolist spell textwidth=0 wrapmargin=0
+    "autocmd BufRead *.md, *.txt, /tmp/vimprobable* set tw=80  nocindent nolist spell
+    "autocmd FileType tex set tw=80   " wrap at 80 chars for LaTeX files
+"endif
 
 " Map keys to toggle functions
 function! MapToggle(key, opt)

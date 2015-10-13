@@ -33,8 +33,8 @@ xset fp rehash
 #xset -dpms 
 #xset s off
 #turn on screen powersave
-xset +dpms 
-xset dpms 0 0 120 
+#xset +dpms 
+#xset dpms 0 0 120 
 
 #turn on mpd
 #mpd ~/.mpd/mpd.conf 
@@ -47,10 +47,10 @@ xset dpms 0 0 120
 xbindkeys   
 
 # enable restart X
-setxkbmap -option terminate:ctrl_alt_bksp
+#setxkbmap -option terminate:ctrl_alt_bksp
 
 # disable CapsLock & map to Escape
-setxkbmap -option caps:swapescape
+#setxkbmap -option caps:swapescape
 
 # compose key
 #setxkbmap -option compose:ralt
@@ -60,15 +60,15 @@ setxkbmap -option caps:swapescape
 #t tells to disable tapping/scroll but not movement
 #k ignore modifier keys
 #d starts as daemon
-syndaemon -t -k -i 2 -d &
+#syndaemon -t -k -i 3 -d 
 
 # brightness
 xbacklight -set 45% &
 
 # set wallpaper
 #imlibsetroot -s $XDG_CONFIG_HOME/background.png &
-feh --bg-scale '/home/frank604/Pictures/3.jpg' &
-#feh --bg-tile '/home/frank604/Pictures/grey_wash_wall/grey_wash_wall.png' &
+#feh --bg-scale '/home/frank604/Pictures/33.png' &
+feh --bg-tile '/home/frank604/Pictures/pattern/grey2.jpg' &
 
 # set cursor
 xsetroot -cursor_name left_ptr &
@@ -84,11 +84,12 @@ autocutsel -fork &
 autocutsel -selection PRIMARY -fork &
 
 # auto{u}mount drives
-udiskie -q -1 &
+udiskie &
 
 caffeine &
 
 nm-applet &
+
 
 #transmission-gtk -m &
 
