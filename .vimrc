@@ -100,6 +100,10 @@ set statusline=\ \%f%m%r%h%w\ ::\ %y\ [%{&ff}]\%=\ [%p%%:\ %l/%L]\
 set laststatus=2
 set cmdheight=1
 
+" set mouse
+set mouse=a
+
+
 "if has("autocmd")
     " always jump to the last cursor position
     "autocmd BufReadPost * if line("'\"")>0 && line("'\"")<=line("$")|exe "normal g`\""|endif
