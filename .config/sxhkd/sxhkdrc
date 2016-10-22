@@ -1,0 +1,54 @@
+# wm independent hotkeys {{{
+
+#super + Return
+#    termite
+
+#super + shift + w
+#    qutebrowser --backend webengine
+
+#super + r
+#    /home/frank604/src/scripts/emenu_run -h 38 
+
+# super + x
+#    eval passmenu $(dmenu_options)
+
+#XF86AudioPrev
+#     mpcosd -q prev
+
+#XF86AudioPlay
+#     mpc -q toggle
+
+XF86AudioRaiseVolume
+    /home/frank604/src/scripts/vol.sh up -i 10% -m PCM
+    #vol.sh up
+XF86AudioLowerVolume
+    /home/frank604/src/scripts/vol.sh down -i 10% -m PCM
+    #vol.sh down
+
+XF86AudioMute
+    /home/frank604/src/scripts/vol.sh mute
+
+XF86MonBrightnessUp
+    /home/frank604/src/scripts/bright.sh up
+
+
+XF86MonBrightnessDown
+    /home/frank604/src/scripts/bright.sh down
+
+#super + w
+#    nmcli_dmenu
+
+#control + tab
+#    speedcrunch
+
+#super + c
+#    gsimplecal
+
+super + p
+    autorandr --change
+
+# make sxhkd reload its configuration files
+super + Escape
+    pkill -USR1 -x sxhkd
+
+# }}}

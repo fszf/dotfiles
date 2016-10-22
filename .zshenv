@@ -15,14 +15,16 @@ export EDITOR="/usr/bin/vim"
 export FCEDIT="$EDITOR"
 export VISUAL="$EDITOR"
 export SUDO_EDITOR="$EDITOR"
-export GPGKEY="B1BD4E40"
-export CHROOT="$HOME/Build/chroot"
+export CHROOT="$HOME/src/chroot"
 export SDCV_PAGER="/usr/bin/less"
 export SYSTEMD_PAGER="less -j4aR"
-export BROWSER="/usr/bin/vimprobable2"
+export BROWSER="/usr/bin/qutebrowser"
 export PERL_SIGNALS=unsafe
 export PATH=$PATH:/home/frank604/.gem/ruby/2.1.0/bin
-export PATH=$PATH:/home/frank604/Scripts
+export PATH=$PATH:/home/frank604/src/scripts
+export PATH=$PATH:/home/frank604/.config/bspwm/bin
+export PATH=$PATH:/home/frank604/.config/bspwm/panel
+export QUTE_QTBUG54419_PATCHED=1
 
 # man page colours
 export LESS_TERMCAP_mb=$'\E[01;31m'

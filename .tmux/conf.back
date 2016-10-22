@@ -30,22 +30,19 @@ set -g history-limit 10000
 set -ga terminal-overrides ',xterm*:smcup@:rmcup@'
 set -ga terminal-override ',rxvt-uni*:XT:Ms=\E]52;%p1%s;%p2%s\007'
 
-## doesn't work in ubuntu vps
-#set -g mouse on
-#bind -T root WheelUpPane   if-shell -F -t = "#{alternate_on}" "send-keys -M" "select-pane -t =; copy-mode -e; send-keys -M"
-#bind -T root WheelDownPane if-shell -F -t = "#{alternate_on}" "send-keys -M" "select-pane -t =; send-keys -M"
+set -g mouse on
+bind -T root WheelUpPane   if-shell -F -t = "#{alternate_on}" "send-keys -M" "select-pane -t =; copy-mode -e; send-keys -M"
+bind -T root WheelDownPane if-shell -F -t = "#{alternate_on}" "send-keys -M" "select-pane -t =; send-keys -M"
 
- # Copy and paste
- bind [ copy-mode
- bind -t vi-copy v begin-selection
- bind -t vi-copy y copy-pipe 'xclip -in -selection clipboard'
- bind -t vi-copy V rectangle-toggle
- bind ] paste-buffer
+# Copy and paste
+bind [ copy-mode
+bind -t vi-copy v begin-selection
+bind -t vi-copy y copy-pipe 'xclip -in -selection clipboard'
+bind -t vi-copy V rectangle-toggle
+bind ] paste-buffer
 
- # reload config file (change file location to your the tmux.conf you want to use)
- bind r source-file ~/.tmux/conf
-
-
+# reload config file (change file location to your the tmux.conf you want to use)
+bind r source-file ~/.tmux/conf
 
 ######################
 ### DESIGN CHANGES ###
@@ -119,7 +116,7 @@ set -g status-bg colour234
 set -g status-fg colour137
 set -g status-attr dim
 set -g status-left ''
-set -g status-right '#[fg=colour233,bg=colour241,bold] %d/%m #[fg=colour233,bg=colour245,bold] %H:%M:%S #[fg=colour50,bg=colour238,bold] #H'
+set -g status-right '#[fg=colour233,bg=colour241,bold] %d/%m #[fg=colour233,bg=colour245,bold] %H:%M:%S #[fg=black,bg=white,bold] #H'
 set -g status-right-length 50
 set -g status-left-length 20
 

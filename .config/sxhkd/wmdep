@@ -1,0 +1,59 @@
+
+# wm independent hotkeys {{{
+
+#super + p
+#    ~/.wm/scripts/i3blur.sh
+
+
+super + Return
+    termite
+
+super + shift + w
+    qutebrowser --backend webengine
+# launch a program, ensure GTK3 theme.
+super + space
+    /home/frank604/src/scripts/emenu_run -h 38 
+
+# A nice wrapper script for password store.
+super + shift + space
+    eval passmenu $(dmenu_options)
+
+XF86Audio{Prev,Next}
+     mpcosd -q {prev,next}
+
+XF86AudioPlay
+     mpc -q toggle
+
+XF86AudioRaiseVolume
+    #amixer -q set Master 3%{-,+}
+    /home/frank604/src/scripts/volh.sh up -i 10% -m PCM
+
+XF86AudioLowerVolume
+    /home/frank604/src/scripts/volh.sh down -i 10% -m PCM
+
+XF86AudioMute
+    amixer -q set Master toggle
+
+XF86MonBrightnessUp
+    /home/frank604/src/scripts/bright.sh up
+
+XF86MonBrightnessDown
+    /home/frank604/src/scripts/bright.sh down
+
+super + w
+    nmcli_dmenu
+
+control + tab
+    speedcrunch
+
+super + c
+    gsimplecal
+
+super + p
+    autorandr --change
+
+# make sxhkd reload its configuration files
+super + Escape
+    pkill -USR1 -x sxhkd
+
+# }}}

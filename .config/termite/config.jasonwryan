@@ -11,14 +11,18 @@ clickable_url = true
 #font = Hack 11
 #font = fira mono 12
 #font = Meslo LG L DZ 11
-font = pragmata pro 10
+font = PragmataPro 11
+#font = Consolas 11
+#font = Anonymous Pro 11
+#font = Roboto Mono 11
+
 scrollback_lines = 10000
 search_wrap = true
 #icon_name = terminal
 #geometry = 640x480
 
 # "system", "on" or "off"
-cursor_blink = system
+cursor_blink = off
 
 # "block", "underline" or "ibeam"
 cursor_shape = block
@@ -34,26 +38,34 @@ browser = qutebrowser
 
 [colors]
 
-foreground=   #cccccc
-background=   #262425
-cursor=  #cccccc
-color0=       #1e1a1b
-color8=       #403a3d
-color1=       #9e7e8b
-color9=       #da5189
-color2=       #8caa94
-color10=      #66e487
-color3=       #d6c9a1
-color11=      #debe5c
-color4=       #9dbdc9
-color12=      #71c2e0
-color5=       #c99cc5
-color13=      #e871dd
-color6=       #a4afce
-color14=      #607fd9
-color7=       #c0c0c0
-color15=      #ffffff
+background= #080808
+foreground= #999999
+
+color0 = #333333
+ color8 = #474747
+
+ color1 = #8a2f58
+ color9 = #cf4f88
+
+ color2 = #287373
+ color10 = #53a6a6
+
+ color3 = #914e89
+ color11 = #bf85cc
+
+ color4 = #395573
+ color12 = #4779b3
+
+ color5 = #5e468c
+ color13 = #7f62b3
+
+ color6 = #2b7694
+ color14 = #58aeb1
+
+ color7 = #899ca1
+ color15 = #c0c0c0
 
 
+ 
 
 # vim= ft=dosini cms=#%s

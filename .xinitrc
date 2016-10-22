@@ -11,12 +11,14 @@ if [ -d /etc/X11/xinit/xinitrc.d ]; then
   unset f
 fi
 
-# external monitor
-#external=$(xrandr -q | awk '/HDMI1/ {print $2}')
-#if [ "$external" = connected ]; then
-#  xrandr --output eDP1 --mode 1600x900 --pos 0x0 --below HDMI1 \
-#  --output HDMI1 --mode 1680x1050 --pos 0x900
-#fi
+# load gnome-keyring without gnome
+eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
+export SSH_AUTH_SOCK
+
+#fix owncloud keychain https://github.com/owncloud/client/issues/3726
+#dbus-update-activation-environment --systemd DISPLAY
+
+dunst &
 
 # load .Xresources
 xrdb -merge $HOME/.Xresources 
@@ -26,49 +28,20 @@ xset +fp /usr/share/fonts/local
 xset +fp /home/frank604/.fonts
 xset fp rehash
 
-#start dropbox daemon
-#dropboxd &
-
 # turn off dpms and disable screen saver blanking
-#xset -dpms 
-#xset s off
-#turn on screen powersave
-#xset +dpms 
-#xset dpms 0 0 120 
+xset dpms 0 0 0 && xset s noblank && xset s off   
 
 #turn on mpd
 #mpd ~/.mpd/mpd.conf 
 
-
 #turn on procmail
 #procmail & 
-
-# enable xbindkeys
-xbindkeys   
-
-# enable restart X
-#setxkbmap -option terminate:ctrl_alt_bksp
-
-# disable CapsLock & map to Escape
-#setxkbmap -option caps:swapescape
-
-# compose key
-#setxkbmap -option compose:ralt
-
-#touchpad disabled when typing
-#i2 = idle time to 2 seconds 
-#t tells to disable tapping/scroll but not movement
-#k ignore modifier keys
-#d starts as daemon
-#syndaemon -t -k -i 3 -d 
 
 # brightness
 xbacklight -set 45% &
 
 # set wallpaper
-#imlibsetroot -s $XDG_CONFIG_HOME/background.png &
-#feh --bg-scale '/home/frank604/Pictures/33.png' &
-feh --bg-tile '/home/frank604/Pictures/pattern/grey2.jpg' &
+#feh --bg-tile '/home/frank604/Pictures/train.jpg' &
 
 # set cursor
 xsetroot -cursor_name left_ptr &
@@ -76,32 +49,35 @@ xsetroot -cursor_name left_ptr &
 # hide cursor
 unclutter -noevents -idle 5 &
 
-# start terminal emulation daemon
-urxvtd -q -o -f &
 
 # clipboard synching
 autocutsel -fork &
-autocutsel -selection PRIMARY -fork &
+#autocutsel -selection PRIMARY -fork &
 
-# auto{u}mount drives
-udiskie &
+dropbox &
+compton -cCGfF -o 0.38 -O 200 -I 200 -t 0 -l 0 -r 3 -D2 -m 0.88 &
 
-caffeine &
+#xautolock -detectsleep \
+ #             -notify  120 -notifier "xset dpms force off" \
+ #             -time     10 -locker   "i3lock-fancy" & 
+              #-killtime 10 -killer   "systemctl suspend" &
 
-nm-applet &
+xautolock -detectsleep -corners -000 -notify 120 -notifier "notify-send 'The system is going down...'" -time 10 -locker "i3lock-fancy" & -killtime 10 -killer "systemctl suspend" &
 
+autorandr --change
+nitrogen --restore 
+pkill mpd
 
-#transmission-gtk -m &
-
-# xlock + xautolock
-#xautolock -time 5 -locker slock
-#xautolock -detectsleep -time 5 -locker "systemctl suspend" -notify 150 -notifier "notify-send -u critical -t 10000 -- 'Powersaving on in a few seconds....'"  &
-
-compton --config ~/.config/compton.conf &
+# ---- Autostart xbindkeys -----
+#xbindkeys &
+sxhkd -c /home/frank604/.config/sxhkd/sxhkdrc &
+numlockx &
 
 # ---- window manager ----
 # launch dwm
+#exec dwm
 exec $HOME/src/scripts/dwm-start
-
-
+#export DISPLAY=:0
+#exec startkde
+#exec i3
 

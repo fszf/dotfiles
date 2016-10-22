@@ -7,11 +7,8 @@ allow_bold = false
 dynamic_title = true
 urgent_on_bell = true
 clickable_url = true
-#font = Monospace 10
-#font = Hack 11
-#font = fira mono 12
-#font = Meslo LG L DZ 11
-font = pragmata pro 10
+font = Pragmata Pro 10
+
 scrollback_lines = 10000
 search_wrap = true
 #icon_name = terminal
@@ -33,27 +30,40 @@ browser = qutebrowser
 #modify_other_keys = false
 
 [colors]
+# Base16 Monokai
+# Scheme: Wimer Hazenberg (http://www.monokai.nl)
 
-foreground=   #cccccc
-background=   #262425
-cursor=  #cccccc
-color0=       #1e1a1b
-color8=       #403a3d
-color1=       #9e7e8b
-color9=       #da5189
-color2=       #8caa94
-color10=      #66e487
-color3=       #d6c9a1
-color11=      #debe5c
-color4=       #9dbdc9
-color12=      #71c2e0
-color5=       #c99cc5
-color13=      #e871dd
-color6=       #a4afce
-color14=      #607fd9
-color7=       #c0c0c0
-color15=      #ffffff
+foreground      = #e1e1da
+foreground_bold = #ffffff
+cursor          = #f8f8f2
+background      = #272822
+
+# 16 color space
+color0 = #272822
+color8 = #272822
+
+color1 = #f92672
+color9 = #f92672
+
+color2 = #a6e22e
+color10 = #a6e22e
+
+color3 = #fd971f
+color11 = #fd971f
+
+color4 = #ae81ff
+color12 = #ae81ff
+
+color5 = #fe558a
+color13 = #fe558a
+
+color6 = #66d9ef
+color14 = #66d9ef
+
+color7 = #f8f8f0
+color15 = #f8f8f0
 
 
 
-# vim= ft=dosini cms=#%s
+
+# vim: ft=dosini cms=#%s

@@ -1,0 +1,117 @@
+# bspwm hotkeys {{{
+super + shift + c
+    bspc node -{c,k}
+
+super + s
+    bspc node -t $(bspc query -N -n -n .tiled >/dev/null && echo floating || echo tiled)
+
+super + f
+    bspc node -t ~fullscreen
+
+# if the current node is automatic, send it to the last manual, otherwise pull the last leaf
+super + y
+    bspc query -N -n focused.automatic && bspc node -n last.!automatic || bspc node last.leaf -n focused
+
+alt + {_,shift} + Tab
+    bspc node -f {next,prev}.local
+
+super + t
+    bspc desktop -l next
+
+super + {_,shift,alt,ctrl} + {h,j,k,l}
+    {focus,move,resize,presel}.sh {west,south,north,east}
+
+super + ctrl + space
+    bspc node -p cancel
+
+# send node to desktop on current monitor index
+super + {_,shift} + {1-9}
+    bspc {desktop -f,node -d} focused:^{1-9}
+
+# insert receptacle, or clear receptacles on current desktop
+super + {_,shift} + r
+    {bspc node -i,for win in `bspc query -N -d -n .leaf.!window`; do bspc node $win -k; done}
+
+# rotate, balance
+super + {_,shift} + semicolon
+    bspc node $(bspc query -N -n -n .!leaf || echo @/) {-R 90,-B}
+
+# hide current node, or restore a queried hidden node
+super + {_,shift} + minus
+    bspc node {,$(bspc query -N -d -n .hidden | head -n 1)} -g hidden
+
+# focus the node for the given path jump
+super + {p,b,comma,period}
+    bspc node -f @{parent,brother,first,second}
+
+# kill panel, nicely ask all windows to close, quit.
+# todo: ask nicely for real.
+super + shift + q
+    pgrep lemonbar && ~/.wm/scripts/panelt; \
+    for win in $(bspc query -N); do bspc node $win -c ; done; \
+    bspc quit
+
+# toggle panel or gaps.
+super + {_,shift} + slash
+    ~/.wm/scripts/{gap,panel}t
+
+# }}}
+
+# wm independent hotkeys {{{
+
+#super + p
+#    ~/.wm/scripts/i3blur.sh
+
+
+super + Return
+    termite
+
+super + shift + w
+    qutebrowser --backend webengine
+# launch a program, ensure GTK3 theme.
+super + space
+    /home/frank604/src/scripts/emenu_run -h 38 
+
+# A nice wrapper script for password store.
+super + shift + space
+    eval passmenu $(dmenu_options)
+
+XF86Audio{Prev,Next}
+     mpcosd -q {prev,next}
+
+XF86AudioPlay
+     mpc -q toggle
+
+XF86AudioRaiseVolume
+    #amixer -q set Master 3%{-,+}
+    /home/frank604/src/scripts/volh.sh up -i 10% -m PCM
+
+XF86AudioLowerVolume
+    /home/frank604/src/scripts/volh.sh down -i 10% -m PCM
+
+XF86AudioMute
+    amixer -q set Master toggle
+
+XF86MonBrightnessUp
+    /home/frank604/src/scripts/bright.sh up
+
+XF86MonBrightnessDown
+    /home/frank604/src/scripts/bright.sh down
+
+super + w
+    nmcli_dmenu
+
+control + tab
+    speedcrunch
+
+super + c
+    gsimplecal
+
+super + p
+    autorandr --change
+
+# make sxhkd reload its configuration files
+super + Escape
+    pkill -USR1 -x sxhkd
+
+# }}}

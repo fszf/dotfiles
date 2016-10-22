@@ -1,15 +1,3 @@
-"bright.sh down"
-m:0x0 + c:232
-
-"bright.sh up"
-m:0x0 + c:233
-
-"kbdlight up"
-m:0x0 + c:238
-
-"kbdlight down"
-m:0x0 + c:237
-
 "/home/frank604/src/scripts/vol.sh up -i 10% -m PCM"
 m:0x0 + c:123
 
@@ -18,16 +6,4 @@ m:0x0 + c:122
 
 "/home/frank604/src/scripts/vol.sh mute"
 m:0x0 + c:121
-
-"mpcosd play"
-m:0x10 + c:172
-XF86AudioPlay
-
-"mpcosd next"
-m:0x10 + c:171
-XF86AudioNext
-
-"mpcosd prev"
-m:0x10 + c:173
-XF86AudioPrev
 

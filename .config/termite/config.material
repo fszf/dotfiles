@@ -10,7 +10,6 @@ clickable_url = true
 #font = Monospace 10
 #font = Hack 11
 #font = fira mono 12
-#font = Meslo LG L DZ 11
 font = pragmata pro 10
 scrollback_lines = 10000
 search_wrap = true
@@ -34,26 +33,41 @@ browser = qutebrowser
 
 [colors]
 
-foreground=   #cccccc
-background=   #262425
-cursor=  #cccccc
-color0=       #1e1a1b
-color8=       #403a3d
-color1=       #9e7e8b
-color9=       #da5189
-color2=       #8caa94
-color10=      #66e487
-color3=       #d6c9a1
-color11=      #debe5c
-color4=       #9dbdc9
-color12=      #71c2e0
-color5=       #c99cc5
-color13=      #e871dd
-color6=       #a4afce
-color14=      #607fd9
-color7=       #c0c0c0
-color15=      #ffffff
+background= #263238
+foreground= #c5c8c6
 
 
+#BLK
+color0=     #212d32
+color8=     #37474f
+
+#RED
+color1=     #ec5f67
+color9=     #f77669
+
+#GRN
+color2=     #8bd649
+color10=    #c3e88d
+
+#BLU
+color12=    #5f819d
+color4=     #85678f
+
+#YEL
+color11=    #f8e71c
+color3=     #f1e655
+
+#CYN
+color14=    #80cbc4
+color6=     #5c7e8c
+
+#MAG
+color13=    #82b1ff
+color5=     #7986cb
+
+#WHT
+color7=     #707880
+color15=    #cdd3de
+ 
 
 # vim= ft=dosini cms=#%s
