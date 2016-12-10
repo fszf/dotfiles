@@ -29,48 +29,50 @@ accept_cookie 1
 show_cookie 1
 use_cookie 1
 ssl_ca_file 
-ssl_ca_path 
+ssl_ca_path /etc/ssl/certs
 ssl_key_file 
 ssl_cert_file 
-ssl_verify_server 0
-ssl_forbid_method 
+ssl_verify_server 1
+ssl_forbid_method 2
 no_cache 0
-noproxy_netaddr 1
-no_proxy 
+noproxy_netaddr 0
+no_proxy localhost
 ftp_proxy 
-https_proxy http://127.0.0.1:8118
-http_proxy http://127.0.0.1:8118
-use_proxy 0
+gopher_proxy 
+https_proxy 
+http_proxy 
+use_proxy 1
 max_news 50
 nntpmode 
 nntpserver 
 dns_order 0
-meta_refresh 0
+meta_refresh 1
 follow_redirection 10
-default_url 0
+default_url 1
 retry_http 1
-argv_is_url 0
-accept_media text/html, text/*;q=0.5, image/*
+argv_is_url 1
+accept_media text/html, text/*;q=0.5, image/*, application/*, video/*, audio/*, message/*, x-scheme-handler/*, inode/*, x-content/*, misc/*
 accept_encoding gzip, compress, bzip, bzip2, deflate
 accept_language en;q=1.0
 no_referer 0
 user_agent 
+siteconf_file ~/.w3m/siteconf
 pre_form_file ~/.w3m/pre_form
-ftppass_hostnamegen 1
-ftppasswd 
+ftppass_hostnamegen 0
+ftppasswd anonymous@
 disable_secret_security_check 0
 passwd_file ~/.w3m/passwd
 use_lessopen 0
 bgextviewer 1
 extbrowser3 
-extbrowser2 /home/jason/Scripts/vimprobtab.sh &
-extbrowser sh -c 'printf %s "$0" | xsel'
-mailer /usr/bin/mutt
+extbrowser2 
+extbrowser qutebrowser
+mailer 
 mailto_options 1
-editor /usr/bin/vim
-urimethodmap ~/.w3m/urimethodmap, /usr/etc/w3m/urimethodmap
-mailcap ~/.mutt/mailcap
-mime_types ~/.mime.types, /usr/etc/mime.types
+editor vim
+urimethodmap ~/.w3m/urimethodmap, /etc/w3m/urimethodmap
+mailcap ~/.w3m/mailcap, /etc/w3m/mailcap, /etc/mailcap
+mime_types ~/.w3m/mime.types, /etc/mime.types
 index_file 
 cgi_bin 
 personal_document_root 
@@ -80,26 +82,33 @@ preserve_timestamp 1
 auto_uncompress 0
 decode_cte 0
 clear_buffer 1
+fixed_wheel_scroll_count 10
+relative_wheel_scroll_ratio 30
+relative_wheel_scroll 0
+reverse_mouse 1
+use_mouse 1
+migemo_command cmigemo -q -d /usr/share/cmigemo/utf-8/migemo-dict
+use_migemo 1
 ignorecase_search 1
 wrap_search 0
-mark_all_pages 0
-vi_prec_num 0
-emacs_like_lineedit 0
-mark 0
+mark_all_pages 1
+vi_prec_num 1
+emacs_like_lineedit 1
+mark 1
 close_tab_back 0
 confirm_qq 0
 save_hist 1
 history 100
 use_history 1
 pagerline 10000
-visited_color blue
-visited_anchor 1
+visited_color magenta
+visited_anchor 0
 active_color cyan
 active_style 0
 bg_color terminal
 mark_color cyan
 form_color red
-image_color yellow
+image_color green
 anchor_color blue
 basic_color terminal
 color 1
@@ -111,17 +120,17 @@ fold_line 0
 image_map_list 1
 imgdisplay w3mimgdisplay
 image_scale 100
-ext_image_viewer 1
+ext_image_viewer 0
 max_load_image 4
-auto_image 1
+auto_image 0
 pseudo_inlines 1
 display_image 0
-view_unseenobject 0
+view_unseenobject 1
 ignore_null_img_alt 1
 display_ins_del 1
 fold_textarea 0
 graphic_char 0
-alt_entity 1
+alt_entity 0
 multicol 0
 dictcommand file:///$LIB/w3mdict.cgi
 use_dictcommand 0
@@ -135,7 +144,7 @@ open_tab_dl_list 0
 open_tab_blank 0
 target_self 0
 frame 0
-pixel_per_line 17
-pixel_per_char 9
+pixel_per_line 12
+pixel_per_char 6
 indent_incr 4
-tabstop 8
+tabstop 4
